@@ -11,3 +11,5 @@ jobs*.json
 
 build.log
 *.log
+
+docs/.vitepress/**/*.timestamp-*.mjs
