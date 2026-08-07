@@ -40,8 +40,30 @@ export default defineConfig({
               { text: '自测过关', link: '/levels/l0/checkpoint' },
             ],
           },
-          { text: 'A1 入门', link: '/levels/a1/overview' },
+          {
+            text: 'A1 入门',
+            collapsed: true,
+            items: [
+              { text: '概览', link: '/levels/a1/overview' },
+              { text: '核心词汇', link: '/levels/a1/vocabulary' },
+              { text: '语法', link: '/levels/a1/grammar' },
+              { text: '听力', link: '/levels/a1/listening' },
+              { text: '口语', link: '/levels/a1/speaking' },
+              { text: '写作', link: '/levels/a1/writing' },
+              { text: '自测过关', link: '/levels/a1/checkpoint'           },
         ],
+      },
+      {
+        text: '进阶（陆续更新）',
+        collapsed: true,
+        items: [
+          { text: 'A2 基础', link: '/levels/a2/overview' },
+          { text: 'B1 进阶', link: '/levels/b1/overview' },
+          { text: 'B2 中高级', link: '/levels/b2/overview' },
+          { text: 'C1+ 高级', link: '/levels/c1/overview' },
+        ],
+      },
+    ],
       },
       {
         text: '练习',
