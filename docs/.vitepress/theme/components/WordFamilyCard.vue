@@ -33,6 +33,13 @@ function speak(text: string) {
     window.speechSynthesis.speak(u)
   }
 }
+
+/** 把词按 phonics 后缀拆分，高亮词尾 */
+function highlightWord(word: string, phonics?: string) {
+  if (!phonics || !word.endsWith(phonics)) return { pre: word, suffix: '' }
+  const pre = word.slice(0, -phonics.length)
+  return { pre, suffix: phonics }
+}
 </script>
 
 <template>
@@ -52,12 +59,16 @@ function speak(text: string) {
       >
         <div class="face front">
           <div class="emoji">{{ m.image || '📘' }}</div>
-          <div class="word" @click.stop="speak(m.word)">{{ m.word }} <span class="sp">🔊</span></div>
+          <div class="word" @click.stop="speak(m.word)">
+            {{ highlightWord(m.word, family.phonics).pre }}<span class="hl">{{ highlightWord(m.word, family.phonics).suffix }}</span> <span class="sp">🔊</span>
+          </div>
           <div class="ipa">{{ m.ipa }}</div>
           <div class="cn">{{ m.cn }}</div>
         </div>
         <div class="face back">
-          <div class="word">{{ m.word }}</div>
+          <div class="word">
+            {{ highlightWord(m.word, family.phonics).pre }}<span class="hl">{{ highlightWord(m.word, family.phonics).suffix }}</span>
+          </div>
           <div class="ex">{{ m.example || '（例句待补充）' }}</div>
           <div class="hint">点击返回</div>
         </div>
@@ -65,7 +76,9 @@ function speak(text: string) {
 
       <div class="card anchor">
         <div class="emoji">{{ family.anchor.image || '⭐' }}</div>
-        <div class="word" @click.stop="speak(family.anchor.word)">{{ family.anchor.word }} <span class="sp">🔊</span></div>
+        <div class="word" @click.stop="speak(family.anchor.word)">
+          {{ highlightWord(family.anchor.word, family.phonics).pre }}<span class="hl">{{ highlightWord(family.anchor.word, family.phonics).suffix }}</span> <span class="sp">🔊</span>
+        </div>
         <div class="ipa">{{ family.anchor.ipa }}</div>
         <div class="cn">{{ family.anchor.cn }}</div>
       </div>
@@ -112,6 +125,7 @@ function speak(text: string) {
 .face { width: 100%; }
 .emoji { font-size: 32px; line-height: 1; }
 .word { font-weight: 700; font-size: 18px; margin-top: 4px; }
+.hl { color: #ef4444; }
 .sp { font-size: 13px; opacity: .65; }
 .ipa { color: #2563eb; font-size: 13px; margin-top: 2px; }
 .cn { color: #475569; font-size: 13px; margin-top: 2px; }
