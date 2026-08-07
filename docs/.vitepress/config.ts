@@ -24,7 +24,22 @@ export default defineConfig({
       {
         text: '课程',
         items: [
-          { text: 'L0 准备', link: '/levels/l0/overview' },
+          {
+            text: 'L0 准备 · 发音地基',
+            collapsed: false,
+            items: [
+              { text: '概览', link: '/levels/l0/overview' },
+              { text: '字母与发音', link: '/levels/l0/alphabet' },
+              { text: '自然拼读词族卡', link: '/levels/l0/phonics' },
+              { text: '拼读规则', link: '/levels/l0/grammar' },
+              { text: 'IPA 音标', link: '/levels/l0/ipa' },
+              { text: '工具 App', link: '/levels/l0/tools' },
+              { text: '听音训练', link: '/levels/l0/listening' },
+              { text: '发音练习', link: '/levels/l0/speaking' },
+              { text: '书写拼写', link: '/levels/l0/writing' },
+              { text: '自测过关', link: '/levels/l0/checkpoint' },
+            ],
+          },
           { text: 'A1 入门', link: '/levels/a1/overview' },
         ],
       },

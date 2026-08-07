@@ -4,12 +4,50 @@
     "phonics": "-at",
     "sound": "/æt/",
     "level": "L0",
-    "anchor": { "word": "cat", "ipa": "/kæt/", "cn": "猫", "image": "🐱" },
+    "group": "short-a",
+    "anchor": {
+      "word": "cat",
+      "ipa": "/kæt/",
+      "cn": "猫",
+      "image": "🐱",
+      "example": "“cat” — undefined"
+    },
     "members": [
-      { "word": "bat", "ipa": "/bæt/", "cn": "蝙蝠", "image": "🦇", "example": "A bat flies at night." },
-      { "word": "hat", "ipa": "/hæt/", "cn": "帽子", "image": "🎩", "example": "Put on your hat." },
-      { "word": "mat", "ipa": "/mæt/", "cn": "垫子", "image": "🟫", "example": "The cat sits on the mat." },
-      { "word": "rat", "ipa": "/ræt/", "cn": "老鼠", "image": "🐀", "example": "A rat ate the cheese." }
+      {
+        "word": "bat",
+        "ipa": "/bæt/",
+        "cn": "蝙蝠",
+        "image": "🦇",
+        "example": "“bat” — undefined"
+      },
+      {
+        "word": "hat",
+        "ipa": "/hæt/",
+        "cn": "帽子",
+        "image": "🎩",
+        "example": "“hat” — undefined"
+      },
+      {
+        "word": "mat",
+        "ipa": "/mæt/",
+        "cn": "垫子",
+        "image": "🟫",
+        "example": "“mat” — undefined"
+      },
+      {
+        "word": "rat",
+        "ipa": "/ræt/",
+        "cn": "老鼠",
+        "image": "🐀",
+        "example": "“rat” — undefined"
+      },
+      {
+        "word": "sat",
+        "ipa": "/sæt/",
+        "cn": "坐",
+        "image": "📘",
+        "example": "“sat” — undefined"
+      }
     ],
     "note": "短元音 /æt/ 词族"
   },
@@ -18,69 +56,2449 @@
     "phonics": "-an",
     "sound": "/æn/",
     "level": "L0",
-    "anchor": { "word": "man", "ipa": "/mæn/", "cn": "男人", "image": "🧑" },
+    "group": "short-a",
+    "anchor": {
+      "word": "man",
+      "ipa": "/mæn/",
+      "cn": "男人",
+      "image": "📘",
+      "example": "“man” — undefined"
+    },
     "members": [
-      { "word": "can", "ipa": "/kæn/", "cn": "能；罐头", "image": "🥫", "example": "I can swim." },
-      { "word": "fan", "ipa": "/fæn/", "cn": "扇子；粉丝", "image": "🪭", "example": "The fan is cool." },
-      { "word": "pan", "ipa": "/pæn/", "cn": "平底锅", "image": "🍳", "example": "Fry an egg in the pan." },
-      { "word": "ran", "ipa": "/ræn/", "cn": "跑（过去）", "image": "🏃", "example": "He ran to school." }
+      {
+        "word": "can",
+        "ipa": "/kæn/",
+        "cn": "能；罐头",
+        "image": "📘",
+        "example": "“can” — undefined"
+      },
+      {
+        "word": "fan",
+        "ipa": "/fæn/",
+        "cn": "扇子；粉丝",
+        "image": "📘",
+        "example": "“fan” — undefined"
+      },
+      {
+        "word": "pan",
+        "ipa": "/pæn/",
+        "cn": "平底锅",
+        "image": "📘",
+        "example": "“pan” — undefined"
+      },
+      {
+        "word": "ran",
+        "ipa": "/ræn/",
+        "cn": "跑(过去)",
+        "image": "📘",
+        "example": "“ran” — undefined"
+      },
+      {
+        "word": "van",
+        "ipa": "/væn/",
+        "cn": "面包车",
+        "image": "📘",
+        "example": "“van” — undefined"
+      }
     ],
     "note": "短元音 /æn/ 词族"
   },
   {
     "id": "wf-003",
-    "phonics": "-ig",
-    "sound": "/ɪɡ/",
+    "phonics": "-ap",
+    "sound": "/æp/",
     "level": "L0",
-    "anchor": { "word": "pig", "ipa": "/pɪɡ/", "cn": "猪", "image": "🐷" },
+    "group": "short-a",
+    "anchor": {
+      "word": "cap",
+      "ipa": "/kæp/",
+      "cn": "帽子",
+      "image": "📘",
+      "example": "“cap” — undefined"
+    },
     "members": [
-      { "word": "big", "ipa": "/bɪɡ/", "cn": "大的", "image": "🐘", "example": "A big dog." },
-      { "word": "dig", "ipa": "/dɪɡ/", "cn": "挖", "image": "⛏️", "example": "Dig a hole." },
-      { "word": "wig", "ipa": "/wɪɡ/", "cn": "假发", "image": "💇", "example": "She wears a wig." },
-      { "word": "fig", "ipa": "/fɪɡ/", "cn": "无花果", "image": "🍈", "example": "I eat a fig." }
+      {
+        "word": "map",
+        "ipa": "/mæp/",
+        "cn": "地图",
+        "image": "📘",
+        "example": "“map” — undefined"
+      },
+      {
+        "word": "nap",
+        "ipa": "/næp/",
+        "cn": "小睡",
+        "image": "📘",
+        "example": "“nap” — undefined"
+      },
+      {
+        "word": "tap",
+        "ipa": "/tæp/",
+        "cn": "轻敲",
+        "image": "📘",
+        "example": "“tap” — undefined"
+      },
+      {
+        "word": "lap",
+        "ipa": "/læp/",
+        "cn": "大腿",
+        "image": "📘",
+        "example": "“lap” — undefined"
+      }
     ],
-    "note": "短元音 /ɪɡ/ 词族"
+    "note": "短元音 /æp/ 词族"
   },
   {
     "id": "wf-004",
+    "phonics": "-ag",
+    "sound": "/æg/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "bag",
+      "ipa": "/bæg/",
+      "cn": "包",
+      "image": "📘",
+      "example": "“bag” — undefined"
+    },
+    "members": [
+      {
+        "word": "tag",
+        "ipa": "/tæg/",
+        "cn": "标签",
+        "image": "📘",
+        "example": "“tag” — undefined"
+      },
+      {
+        "word": "rag",
+        "ipa": "/ræg/",
+        "cn": "破布",
+        "image": "📘",
+        "example": "“rag” — undefined"
+      },
+      {
+        "word": "flag",
+        "ipa": "/fæg/",
+        "cn": "旗帜",
+        "image": "📘",
+        "example": "“flag” — undefined"
+      }
+    ],
+    "note": "短元音 /æg/ 词族"
+  },
+  {
+    "id": "wf-005",
+    "phonics": "-ad",
+    "sound": "/æd/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "dad",
+      "ipa": "/dæd/",
+      "cn": "爸爸",
+      "image": "📘",
+      "example": "“dad” — undefined"
+    },
+    "members": [
+      {
+        "word": "mad",
+        "ipa": "/mæd/",
+        "cn": "生气",
+        "image": "📘",
+        "example": "“mad” — undefined"
+      },
+      {
+        "word": "sad",
+        "ipa": "/sæd/",
+        "cn": "伤心",
+        "image": "📘",
+        "example": "“sad” — undefined"
+      },
+      {
+        "word": "pad",
+        "ipa": "/pæd/",
+        "cn": "垫",
+        "image": "📘",
+        "example": "“pad” — undefined"
+      }
+    ],
+    "note": "短元音 /æd/ 词族"
+  },
+  {
+    "id": "wf-006",
+    "phonics": "-am",
+    "sound": "/æm/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "ham",
+      "ipa": "/hæm/",
+      "cn": "火腿",
+      "image": "📘",
+      "example": "“ham” — undefined"
+    },
+    "members": [
+      {
+        "word": "jam",
+        "ipa": "/dʒæm/",
+        "cn": "果酱",
+        "image": "📘",
+        "example": "“jam” — undefined"
+      },
+      {
+        "word": "ram",
+        "ipa": "/ræm/",
+        "cn": "公羊",
+        "image": "📘",
+        "example": "“ram” — undefined"
+      }
+    ],
+    "note": "短元音 /æm/ 词族"
+  },
+  {
+    "id": "wf-007",
+    "phonics": "-ack",
+    "sound": "/æk/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "back",
+      "ipa": "/bæk/",
+      "cn": "背；后面",
+      "image": "📘",
+      "example": "“back” — undefined"
+    },
+    "members": [
+      {
+        "word": "pack",
+        "ipa": "/pæk/",
+        "cn": "打包",
+        "image": "📘",
+        "example": "“pack” — undefined"
+      },
+      {
+        "word": "sack",
+        "ipa": "/sæk/",
+        "cn": "麻袋",
+        "image": "📘",
+        "example": "“sack” — undefined"
+      },
+      {
+        "word": "black",
+        "ipa": "/bæk/",
+        "cn": "黑色",
+        "image": "📘",
+        "example": "“black” — undefined"
+      }
+    ],
+    "note": "短元音 /æk/ 词族"
+  },
+  {
+    "id": "wf-008",
+    "phonics": "-and",
+    "sound": "/ænd/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "hand",
+      "ipa": "/hænd/",
+      "cn": "手",
+      "image": "✋",
+      "example": "“hand” — undefined"
+    },
+    "members": [
+      {
+        "word": "land",
+        "ipa": "/lænd/",
+        "cn": "土地",
+        "image": "📘",
+        "example": "“land” — undefined"
+      },
+      {
+        "word": "sand",
+        "ipa": "/sænd/",
+        "cn": "沙子",
+        "image": "📘",
+        "example": "“sand” — undefined"
+      },
+      {
+        "word": "band",
+        "ipa": "/bænd/",
+        "cn": "乐队",
+        "image": "📘",
+        "example": "“band” — undefined"
+      }
+    ],
+    "note": "短元音 /ænd/ 词族"
+  },
+  {
+    "id": "wf-009",
+    "phonics": "-ash",
+    "sound": "/æʃ/",
+    "level": "L0",
+    "group": "short-a",
+    "anchor": {
+      "word": "cash",
+      "ipa": "/kæʃ/",
+      "cn": "现金",
+      "image": "📘",
+      "example": "“cash” — undefined"
+    },
+    "members": [
+      {
+        "word": "wash",
+        "ipa": "/wæʃ/",
+        "cn": "洗",
+        "image": "📘",
+        "example": "“wash” — undefined"
+      },
+      {
+        "word": "flash",
+        "ipa": "/fæʃ/",
+        "cn": "闪光",
+        "image": "📘",
+        "example": "“flash” — undefined"
+      }
+    ],
+    "note": "短元音 /æʃ/ 词族"
+  },
+  {
+    "id": "wf-010",
+    "phonics": "-en",
+    "sound": "/en/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "hen",
+      "ipa": "/hen/",
+      "cn": "母鸡",
+      "image": "📘",
+      "example": "“hen” — undefined"
+    },
+    "members": [
+      {
+        "word": "pen",
+        "ipa": "/pen/",
+        "cn": "钢笔",
+        "image": "🖊️",
+        "example": "“pen” — undefined"
+      },
+      {
+        "word": "ten",
+        "ipa": "/ten/",
+        "cn": "十",
+        "image": "📘",
+        "example": "“ten” — undefined"
+      },
+      {
+        "word": "men",
+        "ipa": "/men/",
+        "cn": "男人们",
+        "image": "📘",
+        "example": "“men” — undefined"
+      },
+      {
+        "word": "den",
+        "ipa": "/den/",
+        "cn": "兽穴",
+        "image": "📘",
+        "example": "“den” — undefined"
+      }
+    ],
+    "note": "短元音 /en/ 词族"
+  },
+  {
+    "id": "wf-011",
+    "phonics": "-et",
+    "sound": "/et/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "net",
+      "ipa": "/net/",
+      "cn": "网",
+      "image": "📘",
+      "example": "“net” — undefined"
+    },
+    "members": [
+      {
+        "word": "pet",
+        "ipa": "/pet/",
+        "cn": "宠物",
+        "image": "📘",
+        "example": "“pet” — undefined"
+      },
+      {
+        "word": "wet",
+        "ipa": "/wet/",
+        "cn": "湿",
+        "image": "📘",
+        "example": "“wet” — undefined"
+      },
+      {
+        "word": "vet",
+        "ipa": "/vet/",
+        "cn": "兽医",
+        "image": "📘",
+        "example": "“vet” — undefined"
+      },
+      {
+        "word": "set",
+        "ipa": "/set/",
+        "cn": "一套",
+        "image": "📘",
+        "example": "“set” — undefined"
+      }
+    ],
+    "note": "短元音 /et/ 词族"
+  },
+  {
+    "id": "wf-012",
+    "phonics": "-ed",
+    "sound": "/ed/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "bed",
+      "ipa": "/bed/",
+      "cn": "床",
+      "image": "🛏️",
+      "example": "“bed” — undefined"
+    },
+    "members": [
+      {
+        "word": "red",
+        "ipa": "/red/",
+        "cn": "红色",
+        "image": "📘",
+        "example": "“red” — undefined"
+      },
+      {
+        "word": "fed",
+        "ipa": "/fed/",
+        "cn": "喂(过去)",
+        "image": "📘",
+        "example": "“fed” — undefined"
+      },
+      {
+        "word": "wed",
+        "ipa": "/wed/",
+        "cn": "结婚",
+        "image": "📘",
+        "example": "“wed” — undefined"
+      }
+    ],
+    "note": "短元音 /ed/ 词族"
+  },
+  {
+    "id": "wf-013",
+    "phonics": "-eg",
+    "sound": "/eg/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "leg",
+      "ipa": "/leg/",
+      "cn": "腿",
+      "image": "📘",
+      "example": "“leg” — undefined"
+    },
+    "members": [
+      {
+        "word": "egg",
+        "ipa": "/?eg/",
+        "cn": "蛋",
+        "image": "🥚",
+        "example": "“egg” — undefined"
+      },
+      {
+        "word": "peg",
+        "ipa": "/peg/",
+        "cn": "挂钩",
+        "image": "📘",
+        "example": "“peg” — undefined"
+      }
+    ],
+    "note": "短元音 /eg/ 词族"
+  },
+  {
+    "id": "wf-014",
+    "phonics": "-ell",
+    "sound": "/el/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "bell",
+      "ipa": "/bel/",
+      "cn": "铃",
+      "image": "📘",
+      "example": "“bell” — undefined"
+    },
+    "members": [
+      {
+        "word": "sell",
+        "ipa": "/sel/",
+        "cn": "卖",
+        "image": "📘",
+        "example": "“sell” — undefined"
+      },
+      {
+        "word": "tell",
+        "ipa": "/tel/",
+        "cn": "告诉",
+        "image": "📘",
+        "example": "“tell” — undefined"
+      },
+      {
+        "word": "well",
+        "ipa": "/wel/",
+        "cn": "好；井",
+        "image": "📘",
+        "example": "“well” — undefined"
+      }
+    ],
+    "note": "短元音 /el/ 词族"
+  },
+  {
+    "id": "wf-015",
+    "phonics": "-est",
+    "sound": "/est/",
+    "level": "L0",
+    "group": "short-e",
+    "anchor": {
+      "word": "best",
+      "ipa": "/best/",
+      "cn": "最好",
+      "image": "📘",
+      "example": "“best” — undefined"
+    },
+    "members": [
+      {
+        "word": "rest",
+        "ipa": "/rest/",
+        "cn": "休息",
+        "image": "📘",
+        "example": "“rest” — undefined"
+      },
+      {
+        "word": "nest",
+        "ipa": "/nest/",
+        "cn": "鸟巢",
+        "image": "📘",
+        "example": "“nest” — undefined"
+      },
+      {
+        "word": "west",
+        "ipa": "/west/",
+        "cn": "西方",
+        "image": "📘",
+        "example": "“west” — undefined"
+      }
+    ],
+    "note": "短元音 /est/ 词族"
+  },
+  {
+    "id": "wf-016",
+    "phonics": "-ig",
+    "sound": "/ɪg/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "pig",
+      "ipa": "/pɪg/",
+      "cn": "猪",
+      "image": "🐷",
+      "example": "“pig” — undefined"
+    },
+    "members": [
+      {
+        "word": "big",
+        "ipa": "/bɪg/",
+        "cn": "大",
+        "image": "📘",
+        "example": "“big” — undefined"
+      },
+      {
+        "word": "dig",
+        "ipa": "/dɪg/",
+        "cn": "挖",
+        "image": "📘",
+        "example": "“dig” — undefined"
+      },
+      {
+        "word": "wig",
+        "ipa": "/wɪg/",
+        "cn": "假发",
+        "image": "📘",
+        "example": "“wig” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪg/ 词族"
+  },
+  {
+    "id": "wf-017",
+    "phonics": "-ip",
+    "sound": "/ɪp/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "lip",
+      "ipa": "/lɪp/",
+      "cn": "嘴唇",
+      "image": "📘",
+      "example": "“lip” — undefined"
+    },
+    "members": [
+      {
+        "word": "tip",
+        "ipa": "/tɪp/",
+        "cn": "尖；小费",
+        "image": "📘",
+        "example": "“tip” — undefined"
+      },
+      {
+        "word": "dip",
+        "ipa": "/dɪp/",
+        "cn": "蘸",
+        "image": "📘",
+        "example": "“dip” — undefined"
+      },
+      {
+        "word": "zip",
+        "ipa": "/zɪp/",
+        "cn": "拉链",
+        "image": "📘",
+        "example": "“zip” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪp/ 词族"
+  },
+  {
+    "id": "wf-018",
+    "phonics": "-in",
+    "sound": "/ɪn/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "pin",
+      "ipa": "/pɪn/",
+      "cn": "别针",
+      "image": "📘",
+      "example": "“pin” — undefined"
+    },
+    "members": [
+      {
+        "word": "win",
+        "ipa": "/wɪn/",
+        "cn": "赢",
+        "image": "📘",
+        "example": "“win” — undefined"
+      },
+      {
+        "word": "tin",
+        "ipa": "/tɪn/",
+        "cn": "罐头",
+        "image": "📘",
+        "example": "“tin” — undefined"
+      },
+      {
+        "word": "bin",
+        "ipa": "/bɪn/",
+        "cn": "垃圾桶",
+        "image": "📘",
+        "example": "“bin” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪn/ 词族"
+  },
+  {
+    "id": "wf-019",
+    "phonics": "-it",
+    "sound": "/ɪt/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "sit",
+      "ipa": "/sɪt/",
+      "cn": "坐",
+      "image": "📘",
+      "example": "“sit” — undefined"
+    },
+    "members": [
+      {
+        "word": "fit",
+        "ipa": "/fɪt/",
+        "cn": "合适",
+        "image": "📘",
+        "example": "“fit” — undefined"
+      },
+      {
+        "word": "hit",
+        "ipa": "/hɪt/",
+        "cn": "打",
+        "image": "📘",
+        "example": "“hit” — undefined"
+      },
+      {
+        "word": "bit",
+        "ipa": "/bɪt/",
+        "cn": "一点",
+        "image": "📘",
+        "example": "“bit” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪt/ 词族"
+  },
+  {
+    "id": "wf-020",
+    "phonics": "-id",
+    "sound": "/ɪd/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "lid",
+      "ipa": "/lɪd/",
+      "cn": "盖子",
+      "image": "📘",
+      "example": "“lid” — undefined"
+    },
+    "members": [
+      {
+        "word": "kid",
+        "ipa": "/kɪd/",
+        "cn": "小孩",
+        "image": "📘",
+        "example": "“kid” — undefined"
+      },
+      {
+        "word": "rid",
+        "ipa": "/rɪd/",
+        "cn": "摆脱",
+        "image": "📘",
+        "example": "“rid” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪd/ 词族"
+  },
+  {
+    "id": "wf-021",
+    "phonics": "-ill",
+    "sound": "/ɪl/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "hill",
+      "ipa": "/hɪl/",
+      "cn": "山",
+      "image": "📘",
+      "example": "“hill” — undefined"
+    },
+    "members": [
+      {
+        "word": "bill",
+        "ipa": "/bɪl/",
+        "cn": "账单",
+        "image": "📘",
+        "example": "“bill” — undefined"
+      },
+      {
+        "word": "fill",
+        "ipa": "/fɪl/",
+        "cn": "填满",
+        "image": "📘",
+        "example": "“fill” — undefined"
+      },
+      {
+        "word": "pill",
+        "ipa": "/pɪl/",
+        "cn": "药丸",
+        "image": "📘",
+        "example": "“pill” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪl/ 词族"
+  },
+  {
+    "id": "wf-022",
+    "phonics": "-ick",
+    "sound": "/ɪk/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "kick",
+      "ipa": "/kɪk/",
+      "cn": "踢",
+      "image": "📘",
+      "example": "“kick” — undefined"
+    },
+    "members": [
+      {
+        "word": "lick",
+        "ipa": "/lɪk/",
+        "cn": "舔",
+        "image": "📘",
+        "example": "“lick” — undefined"
+      },
+      {
+        "word": "pick",
+        "ipa": "/pɪk/",
+        "cn": "捡",
+        "image": "📘",
+        "example": "“pick” — undefined"
+      },
+      {
+        "word": "stick",
+        "ipa": "/sɪk/",
+        "cn": "棍",
+        "image": "📘",
+        "example": "“stick” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪk/ 词族"
+  },
+  {
+    "id": "wf-023",
+    "phonics": "-ing",
+    "sound": "/ɪŋ/",
+    "level": "L0",
+    "group": "short-i",
+    "anchor": {
+      "word": "king",
+      "ipa": "/kɪŋ/",
+      "cn": "国王",
+      "image": "👑",
+      "example": "“king” — undefined"
+    },
+    "members": [
+      {
+        "word": "ring",
+        "ipa": "/rɪŋ/",
+        "cn": "戒指；环",
+        "image": "📘",
+        "example": "“ring” — undefined"
+      },
+      {
+        "word": "sing",
+        "ipa": "/sɪŋ/",
+        "cn": "唱",
+        "image": "📘",
+        "example": "“sing” — undefined"
+      },
+      {
+        "word": "wing",
+        "ipa": "/wɪŋ/",
+        "cn": "翅膀",
+        "image": "📘",
+        "example": "“wing” — undefined"
+      }
+    ],
+    "note": "短元音 /ɪŋ/ 词族"
+  },
+  {
+    "id": "wf-024",
+    "phonics": "-og",
+    "sound": "/ɒg/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "dog",
+      "ipa": "/dɒg/",
+      "cn": "狗",
+      "image": "🐶",
+      "example": "“dog” — undefined"
+    },
+    "members": [
+      {
+        "word": "log",
+        "ipa": "/lɒg/",
+        "cn": "原木",
+        "image": "📘",
+        "example": "“log” — undefined"
+      },
+      {
+        "word": "fog",
+        "ipa": "/fɒg/",
+        "cn": "雾",
+        "image": "📘",
+        "example": "“fog” — undefined"
+      },
+      {
+        "word": "hog",
+        "ipa": "/hɒg/",
+        "cn": "猪",
+        "image": "📘",
+        "example": "“hog” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒg/ 词族"
+  },
+  {
+    "id": "wf-025",
     "phonics": "-op",
     "sound": "/ɒp/",
     "level": "L0",
-    "anchor": { "word": "top", "ipa": "/tɒp/", "cn": "顶部", "image": "🔝" },
+    "group": "short-o",
+    "anchor": {
+      "word": "top",
+      "ipa": "/tɒp/",
+      "cn": "顶部",
+      "image": "📘",
+      "example": "“top” — undefined"
+    },
     "members": [
-      { "word": "hop", "ipa": "/hɒp/", "cn": "单脚跳", "image": "🐰", "example": "The frog can hop." },
-      { "word": "pop", "ipa": "/pɒp/", "cn": "流行；砰", "image": "🍿", "example": "Pop the balloon." },
-      { "word": "mop", "ipa": "/mɒp/", "cn": "拖把", "image": "🧹", "example": "Mop the floor." },
-      { "word": "cop", "ipa": "/kɒp/", "cn": "警察", "image": "👮", "example": "The cop is here." }
+      {
+        "word": "cop",
+        "ipa": "/kɒp/",
+        "cn": "警察",
+        "image": "📘",
+        "example": "“cop” — undefined"
+      },
+      {
+        "word": "hop",
+        "ipa": "/hɒp/",
+        "cn": "跳",
+        "image": "📘",
+        "example": "“hop” — undefined"
+      },
+      {
+        "word": "mop",
+        "ipa": "/mɒp/",
+        "cn": "拖把",
+        "image": "📘",
+        "example": "“mop” — undefined"
+      }
     ],
     "note": "短元音 /ɒp/ 词族"
   },
   {
-    "id": "wf-005",
+    "id": "wf-026",
+    "phonics": "-ot",
+    "sound": "/ɒt/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "hot",
+      "ipa": "/hɒt/",
+      "cn": "热",
+      "image": "📘",
+      "example": "“hot” — undefined"
+    },
+    "members": [
+      {
+        "word": "dot",
+        "ipa": "/dɒt/",
+        "cn": "点",
+        "image": "📘",
+        "example": "“dot” — undefined"
+      },
+      {
+        "word": "pot",
+        "ipa": "/pɒt/",
+        "cn": "锅",
+        "image": "📘",
+        "example": "“pot” — undefined"
+      },
+      {
+        "word": "rot",
+        "ipa": "/rɒt/",
+        "cn": "腐烂",
+        "image": "📘",
+        "example": "“rot” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒt/ 词族"
+  },
+  {
+    "id": "wf-027",
+    "phonics": "-ox",
+    "sound": "/ɒks/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "box",
+      "ipa": "/bɒks/",
+      "cn": "盒子",
+      "image": "📘",
+      "example": "“box” — undefined"
+    },
+    "members": [
+      {
+        "word": "fox",
+        "ipa": "/fɒks/",
+        "cn": "狐狸",
+        "image": "📘",
+        "example": "“fox” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒks/ 词族"
+  },
+  {
+    "id": "wf-028",
+    "phonics": "-ob",
+    "sound": "/ɒb/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "job",
+      "ipa": "/dʒɒb/",
+      "cn": "工作",
+      "image": "📘",
+      "example": "“job” — undefined"
+    },
+    "members": [
+      {
+        "word": "rob",
+        "ipa": "/rɒb/",
+        "cn": "抢",
+        "image": "📘",
+        "example": "“rob” — undefined"
+      },
+      {
+        "word": "cob",
+        "ipa": "/kɒb/",
+        "cn": "玉米棒",
+        "image": "📘",
+        "example": "“cob” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒb/ 词族"
+  },
+  {
+    "id": "wf-029",
+    "phonics": "-ock",
+    "sound": "/ɒk/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "rock",
+      "ipa": "/rɒk/",
+      "cn": "岩石",
+      "image": "📘",
+      "example": "“rock” — undefined"
+    },
+    "members": [
+      {
+        "word": "lock",
+        "ipa": "/lɒk/",
+        "cn": "锁",
+        "image": "📘",
+        "example": "“lock” — undefined"
+      },
+      {
+        "word": "sock",
+        "ipa": "/sɒk/",
+        "cn": "袜子",
+        "image": "📘",
+        "example": "“sock” — undefined"
+      },
+      {
+        "word": "clock",
+        "ipa": "/kɒk/",
+        "cn": "时钟",
+        "image": "📘",
+        "example": "“clock” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒk/ 词族"
+  },
+  {
+    "id": "wf-030",
+    "phonics": "-od",
+    "sound": "/ɒd/",
+    "level": "L0",
+    "group": "short-o",
+    "anchor": {
+      "word": "pod",
+      "ipa": "/pɒd/",
+      "cn": "豆荚",
+      "image": "📘",
+      "example": "“pod” — undefined"
+    },
+    "members": [
+      {
+        "word": "rod",
+        "ipa": "/rɒd/",
+        "cn": "杆",
+        "image": "📘",
+        "example": "“rod” — undefined"
+      }
+    ],
+    "note": "短元音 /ɒd/ 词族"
+  },
+  {
+    "id": "wf-031",
+    "phonics": "-un",
+    "sound": "/ʌn/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "sun",
+      "ipa": "/sʌn/",
+      "cn": "太阳",
+      "image": "☀️",
+      "example": "“sun” — undefined"
+    },
+    "members": [
+      {
+        "word": "run",
+        "ipa": "/rʌn/",
+        "cn": "跑",
+        "image": "📘",
+        "example": "“run” — undefined"
+      },
+      {
+        "word": "fun",
+        "ipa": "/fʌn/",
+        "cn": "有趣",
+        "image": "📘",
+        "example": "“fun” — undefined"
+      },
+      {
+        "word": "bun",
+        "ipa": "/bʌn/",
+        "cn": "包子",
+        "image": "📘",
+        "example": "“bun” — undefined"
+      },
+      {
+        "word": "gun",
+        "ipa": "/gʌn/",
+        "cn": "枪",
+        "image": "📘",
+        "example": "“gun” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌn/ 词族"
+  },
+  {
+    "id": "wf-032",
+    "phonics": "-ug",
+    "sound": "/ʌg/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "bug",
+      "ipa": "/bʌg/",
+      "cn": "虫子",
+      "image": "📘",
+      "example": "“bug” — undefined"
+    },
+    "members": [
+      {
+        "word": "rug",
+        "ipa": "/rʌg/",
+        "cn": "地毯",
+        "image": "📘",
+        "example": "“rug” — undefined"
+      },
+      {
+        "word": "mug",
+        "ipa": "/mʌg/",
+        "cn": "杯子",
+        "image": "📘",
+        "example": "“mug” — undefined"
+      },
+      {
+        "word": "hug",
+        "ipa": "/hʌg/",
+        "cn": "拥抱",
+        "image": "📘",
+        "example": "“hug” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌg/ 词族"
+  },
+  {
+    "id": "wf-033",
+    "phonics": "-ut",
+    "sound": "/ʌt/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "cut",
+      "ipa": "/kʌt/",
+      "cn": "切",
+      "image": "📘",
+      "example": "“cut” — undefined"
+    },
+    "members": [
+      {
+        "word": "nut",
+        "ipa": "/nʌt/",
+        "cn": "坚果",
+        "image": "📘",
+        "example": "“nut” — undefined"
+      },
+      {
+        "word": "hut",
+        "ipa": "/hʌt/",
+        "cn": "小屋",
+        "image": "📘",
+        "example": "“hut” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌt/ 词族"
+  },
+  {
+    "id": "wf-034",
+    "phonics": "-ub",
+    "sound": "/ʌb/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "tub",
+      "ipa": "/tʌb/",
+      "cn": "浴缸",
+      "image": "📘",
+      "example": "“tub” — undefined"
+    },
+    "members": [
+      {
+        "word": "cub",
+        "ipa": "/kʌb/",
+        "cn": "幼兽",
+        "image": "📘",
+        "example": "“cub” — undefined"
+      },
+      {
+        "word": "sub",
+        "ipa": "/sʌb/",
+        "cn": "潜水艇",
+        "image": "📘",
+        "example": "“sub” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌb/ 词族"
+  },
+  {
+    "id": "wf-035",
+    "phonics": "-um",
+    "sound": "/ʌm/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "hum",
+      "ipa": "/hʌm/",
+      "cn": "哼唱",
+      "image": "📘",
+      "example": "“hum” — undefined"
+    },
+    "members": [
+      {
+        "word": "gum",
+        "ipa": "/gʌm/",
+        "cn": "口香糖",
+        "image": "📘",
+        "example": "“gum” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌm/ 词族"
+  },
+  {
+    "id": "wf-036",
+    "phonics": "-uck",
+    "sound": "/ʌk/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "duck",
+      "ipa": "/dʌk/",
+      "cn": "鸭子",
+      "image": "📘",
+      "example": "“duck” — undefined"
+    },
+    "members": [
+      {
+        "word": "luck",
+        "ipa": "/lʌk/",
+        "cn": "运气",
+        "image": "📘",
+        "example": "“luck” — undefined"
+      },
+      {
+        "word": "truck",
+        "ipa": "/tʌk/",
+        "cn": "卡车",
+        "image": "📘",
+        "example": "“truck” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌk/ 词族"
+  },
+  {
+    "id": "wf-037",
+    "phonics": "-ump",
+    "sound": "/ʌmp/",
+    "level": "L0",
+    "group": "short-u",
+    "anchor": {
+      "word": "jump",
+      "ipa": "/dʒʌmp/",
+      "cn": "跳",
+      "image": "📘",
+      "example": "“jump” — undefined"
+    },
+    "members": [
+      {
+        "word": "bump",
+        "ipa": "/bʌmp/",
+        "cn": "撞",
+        "image": "📘",
+        "example": "“bump” — undefined"
+      },
+      {
+        "word": "pump",
+        "ipa": "/pʌmp/",
+        "cn": "泵",
+        "image": "📘",
+        "example": "“pump” — undefined"
+      }
+    ],
+    "note": "短元音 /ʌmp/ 词族"
+  },
+  {
+    "id": "wf-038",
+    "phonics": "-ake",
+    "sound": "/eɪk/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "cake",
+      "ipa": "/keɪk/",
+      "cn": "蛋糕",
+      "image": "🍰",
+      "example": "“cake” — undefined"
+    },
+    "members": [
+      {
+        "word": "bake",
+        "ipa": "/beɪk/",
+        "cn": "烤",
+        "image": "📘",
+        "example": "“bake” — undefined"
+      },
+      {
+        "word": "lake",
+        "ipa": "/leɪk/",
+        "cn": "湖",
+        "image": "📘",
+        "example": "“lake” — undefined"
+      },
+      {
+        "word": "wake",
+        "ipa": "/weɪk/",
+        "cn": "醒",
+        "image": "📘",
+        "example": "“wake” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪk/ 词族"
+  },
+  {
+    "id": "wf-039",
+    "phonics": "-ate",
+    "sound": "/eɪt/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "gate",
+      "ipa": "/geɪt/",
+      "cn": "大门",
+      "image": "📘",
+      "example": "“gate” — undefined"
+    },
+    "members": [
+      {
+        "word": "late",
+        "ipa": "/leɪt/",
+        "cn": "迟到",
+        "image": "📘",
+        "example": "“late” — undefined"
+      },
+      {
+        "word": "date",
+        "ipa": "/deɪt/",
+        "cn": "日期",
+        "image": "📘",
+        "example": "“date” — undefined"
+      },
+      {
+        "word": "plate",
+        "ipa": "/peɪt/",
+        "cn": "盘子",
+        "image": "📘",
+        "example": "“plate” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪt/ 词族"
+  },
+  {
+    "id": "wf-040",
+    "phonics": "-ame",
+    "sound": "/eɪm/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "game",
+      "ipa": "/geɪm/",
+      "cn": "游戏",
+      "image": "📘",
+      "example": "“game” — undefined"
+    },
+    "members": [
+      {
+        "word": "name",
+        "ipa": "/neɪm/",
+        "cn": "名字",
+        "image": "📘",
+        "example": "“name” — undefined"
+      },
+      {
+        "word": "fame",
+        "ipa": "/feɪm/",
+        "cn": "名声",
+        "image": "📘",
+        "example": "“fame” — undefined"
+      },
+      {
+        "word": "came",
+        "ipa": "/keɪm/",
+        "cn": "来(过去)",
+        "image": "📘",
+        "example": "“came” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪm/ 词族"
+  },
+  {
+    "id": "wf-041",
+    "phonics": "-ane",
+    "sound": "/eɪn/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "cane",
+      "ipa": "/keɪn/",
+      "cn": "手杖",
+      "image": "📘",
+      "example": "“cane” — undefined"
+    },
+    "members": [
+      {
+        "word": "plane",
+        "ipa": "/peɪn/",
+        "cn": "飞机",
+        "image": "📘",
+        "example": "“plane” — undefined"
+      },
+      {
+        "word": "crane",
+        "ipa": "/keɪn/",
+        "cn": "起重机",
+        "image": "📘",
+        "example": "“crane” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪn/ 词族"
+  },
+  {
+    "id": "wf-042",
+    "phonics": "-ace",
+    "sound": "/eɪs/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "face",
+      "ipa": "/feɪs/",
+      "cn": "脸",
+      "image": "📘",
+      "example": "“face” — undefined"
+    },
+    "members": [
+      {
+        "word": "race",
+        "ipa": "/reɪs/",
+        "cn": "赛跑",
+        "image": "📘",
+        "example": "“race” — undefined"
+      },
+      {
+        "word": "space",
+        "ipa": "/seɪs/",
+        "cn": "空间",
+        "image": "📘",
+        "example": "“space” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪs/ 词族"
+  },
+  {
+    "id": "wf-043",
+    "phonics": "-ale",
+    "sound": "/eɪl/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "cn": "出售",
+      "image": "📘",
+      "example": "“sale” — undefined"
+    },
+    "members": [
+      {
+        "word": "tale",
+        "ipa": "/teɪl/",
+        "cn": "故事",
+        "image": "📘",
+        "example": "“tale” — undefined"
+      },
+      {
+        "word": "pale",
+        "ipa": "/peɪl/",
+        "cn": "苍白",
+        "image": "📘",
+        "example": "“pale” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪl/ 词族"
+  },
+  {
+    "id": "wf-044",
+    "phonics": "-ape",
+    "sound": "/eɪp/",
+    "level": "L0",
+    "group": "long-a",
+    "anchor": {
+      "word": "tape",
+      "ipa": "/teɪp/",
+      "cn": "胶带",
+      "image": "📘",
+      "example": "“tape” — undefined"
+    },
+    "members": [
+      {
+        "word": "cape",
+        "ipa": "/keɪp/",
+        "cn": "斗篷",
+        "image": "📘",
+        "example": "“cape” — undefined"
+      },
+      {
+        "word": "grape",
+        "ipa": "/geɪp/",
+        "cn": "葡萄",
+        "image": "📘",
+        "example": "“grape” — undefined"
+      }
+    ],
+    "note": "长元音 /eɪp/ 词族"
+  },
+  {
+    "id": "wf-045",
     "phonics": "-ee",
     "sound": "/iː/",
     "level": "L0",
-    "anchor": { "word": "see", "ipa": "/siː/", "cn": "看见", "image": "👀" },
+    "group": "long-e",
+    "anchor": {
+      "word": "see",
+      "ipa": "/siː/",
+      "cn": "看见",
+      "image": "📘",
+      "example": "“see” — undefined"
+    },
     "members": [
-      { "word": "bee", "ipa": "/biː/", "cn": "蜜蜂", "image": "🐝", "example": "A bee is busy." },
-      { "word": "tree", "ipa": "/triː/", "cn": "树", "image": "🌳", "example": "The bird is in the tree." },
-      { "word": "feet", "ipa": "/fiːt/", "cn": "脚（复数）", "image": "🦶", "example": "My feet are cold." },
-      { "word": "meet", "ipa": "/miːt/", "cn": "遇见", "image": "🤝", "example": "Nice to meet you." }
+      {
+        "word": "bee",
+        "ipa": "/biː/",
+        "cn": "蜜蜂",
+        "image": "📘",
+        "example": "“bee” — undefined"
+      },
+      {
+        "word": "tree",
+        "ipa": "/tiː/",
+        "cn": "树",
+        "image": "🌳",
+        "example": "“tree” — undefined"
+      },
+      {
+        "word": "three",
+        "ipa": "/tiː/",
+        "cn": "三",
+        "image": "📘",
+        "example": "“three” — undefined"
+      }
     ],
     "note": "长元音 /iː/ 词族"
   },
   {
-    "id": "wf-006",
+    "id": "wf-046",
     "phonics": "-eep",
     "sound": "/iːp/",
     "level": "L0",
-    "anchor": { "word": "deep", "ipa": "/diːp/", "cn": "深的", "image": "🌊" },
+    "group": "long-e",
+    "anchor": {
+      "word": "deep",
+      "ipa": "/diːp/",
+      "cn": "（释义待补）",
+      "image": "📘",
+      "example": "“deep” — undefined"
+    },
     "members": [
-      { "word": "sheep", "ipa": "/ʃiːp/", "cn": "绵羊", "image": "🐑", "example": "The sheep is on the hill." },
-      { "word": "sleep", "ipa": "/sliːp/", "cn": "睡觉", "image": "😴", "example": "I sleep at 10 p.m." },
-      { "word": "keep", "ipa": "/kiːp/", "cn": "保持", "image": "🛡️", "example": "Keep the change." },
-      { "word": "jeep", "ipa": "/dʒiːp/", "cn": "吉普车", "image": "🚙", "example": "He drives a jeep." }
+      {
+        "word": "sheep",
+        "ipa": "/siːp/",
+        "cn": "（释义待补）",
+        "image": "📘",
+        "example": "“sheep” — undefined"
+      },
+      {
+        "word": "sleep",
+        "ipa": "/siːp/",
+        "cn": "（释义待补）",
+        "image": "📘",
+        "example": "“sleep” — undefined"
+      },
+      {
+        "word": "keep",
+        "ipa": "/kiːp/",
+        "cn": "（释义待补）",
+        "image": "📘",
+        "example": "“keep” — undefined"
+      },
+      {
+        "word": "jeep",
+        "ipa": "/dʒiːp/",
+        "cn": "（释义待补）",
+        "image": "📘",
+        "example": "“jeep” — undefined"
+      }
     ],
-    "note": "长元音 /iːp/ 词族 —— 记住 deep，整族一起记"
+    "note": "长元音 /iːp/ 词族"
+  },
+  {
+    "id": "wf-047",
+    "phonics": "-eet",
+    "sound": "/iːt/",
+    "level": "L0",
+    "group": "long-e",
+    "anchor": {
+      "word": "feet",
+      "ipa": "/fiːt/",
+      "cn": "脚(复)",
+      "image": "📘",
+      "example": "“feet” — undefined"
+    },
+    "members": [
+      {
+        "word": "meet",
+        "ipa": "/miːt/",
+        "cn": "遇见",
+        "image": "📘",
+        "example": "“meet” — undefined"
+      },
+      {
+        "word": "street",
+        "ipa": "/siːt/",
+        "cn": "街道",
+        "image": "📘",
+        "example": "“street” — undefined"
+      },
+      {
+        "word": "sweet",
+        "ipa": "/siːt/",
+        "cn": "甜",
+        "image": "📘",
+        "example": "“sweet” — undefined"
+      }
+    ],
+    "note": "长元音 /iːt/ 词族"
+  },
+  {
+    "id": "wf-048",
+    "phonics": "-eel",
+    "sound": "/iːl/",
+    "level": "L0",
+    "group": "long-e",
+    "anchor": {
+      "word": "feel",
+      "ipa": "/fiːl/",
+      "cn": "感觉",
+      "image": "📘",
+      "example": "“feel” — undefined"
+    },
+    "members": [
+      {
+        "word": "peel",
+        "ipa": "/piːl/",
+        "cn": "剥",
+        "image": "📘",
+        "example": "“peel” — undefined"
+      },
+      {
+        "word": "wheel",
+        "ipa": "/wiːl/",
+        "cn": "轮子",
+        "image": "📘",
+        "example": "“wheel” — undefined"
+      }
+    ],
+    "note": "长元音 /iːl/ 词族"
+  },
+  {
+    "id": "wf-049",
+    "phonics": "-eak",
+    "sound": "/iːk/",
+    "level": "L0",
+    "group": "long-e",
+    "anchor": {
+      "word": "speak",
+      "ipa": "/siːk/",
+      "cn": "说",
+      "image": "📘",
+      "example": "“speak” — undefined"
+    },
+    "members": [
+      {
+        "word": "peak",
+        "ipa": "/piːk/",
+        "cn": "山峰",
+        "image": "📘",
+        "example": "“peak” — undefined"
+      },
+      {
+        "word": "weak",
+        "ipa": "/wiːk/",
+        "cn": "弱",
+        "image": "📘",
+        "example": "“weak” — undefined"
+      }
+    ],
+    "note": "长元音 /iːk/ 词族"
+  },
+  {
+    "id": "wf-050",
+    "phonics": "-eam",
+    "sound": "/iːm/",
+    "level": "L0",
+    "group": "long-e",
+    "anchor": {
+      "word": "dream",
+      "ipa": "/diːm/",
+      "cn": "梦",
+      "image": "📘",
+      "example": "“dream” — undefined"
+    },
+    "members": [
+      {
+        "word": "cream",
+        "ipa": "/kiːm/",
+        "cn": "奶油",
+        "image": "📘",
+        "example": "“cream” — undefined"
+      },
+      {
+        "word": "team",
+        "ipa": "/tiːm/",
+        "cn": "队",
+        "image": "📘",
+        "example": "“team” — undefined"
+      }
+    ],
+    "note": "长元音 /iːm/ 词族"
+  },
+  {
+    "id": "wf-051",
+    "phonics": "-ike",
+    "sound": "/aɪk/",
+    "level": "L0",
+    "group": "long-i",
+    "anchor": {
+      "word": "bike",
+      "ipa": "/baɪk/",
+      "cn": "自行车",
+      "image": "📘",
+      "example": "“bike” — undefined"
+    },
+    "members": [
+      {
+        "word": "like",
+        "ipa": "/laɪk/",
+        "cn": "喜欢",
+        "image": "📘",
+        "example": "“like” — undefined"
+      },
+      {
+        "word": "pike",
+        "ipa": "/paɪk/",
+        "cn": "梭子鱼",
+        "image": "📘",
+        "example": "“pike” — undefined"
+      }
+    ],
+    "note": "长元音 /aɪk/ 词族"
+  },
+  {
+    "id": "wf-052",
+    "phonics": "-ime",
+    "sound": "/aɪm/",
+    "level": "L0",
+    "group": "long-i",
+    "anchor": {
+      "word": "time",
+      "ipa": "/taɪm/",
+      "cn": "时间",
+      "image": "📘",
+      "example": "“time” — undefined"
+    },
+    "members": [
+      {
+        "word": "lime",
+        "ipa": "/laɪm/",
+        "cn": "酸橙",
+        "image": "📘",
+        "example": "“lime” — undefined"
+      },
+      {
+        "word": "dime",
+        "ipa": "/daɪm/",
+        "cn": "一角硬币",
+        "image": "📘",
+        "example": "“dime” — undefined"
+      }
+    ],
+    "note": "长元音 /aɪm/ 词族"
+  },
+  {
+    "id": "wf-053",
+    "phonics": "-ine",
+    "sound": "/aɪn/",
+    "level": "L0",
+    "group": "long-i",
+    "anchor": {
+      "word": "line",
+      "ipa": "/laɪn/",
+      "cn": "线",
+      "image": "📘",
+      "example": "“line” — undefined"
+    },
+    "members": [
+      {
+        "word": "fine",
+        "ipa": "/faɪn/",
+        "cn": "好",
+        "image": "📘",
+        "example": "“fine” — undefined"
+      },
+      {
+        "word": "wine",
+        "ipa": "/waɪn/",
+        "cn": "酒",
+        "image": "📘",
+        "example": "“wine” — undefined"
+      },
+      {
+        "word": "pine",
+        "ipa": "/paɪn/",
+        "cn": "松树",
+        "image": "📘",
+        "example": "“pine” — undefined"
+      }
+    ],
+    "note": "长元音 /aɪn/ 词族"
+  },
+  {
+    "id": "wf-054",
+    "phonics": "-ide",
+    "sound": "/aɪd/",
+    "level": "L0",
+    "group": "long-i",
+    "anchor": {
+      "word": "ride",
+      "ipa": "/raɪd/",
+      "cn": "骑",
+      "image": "📘",
+      "example": "“ride” — undefined"
+    },
+    "members": [
+      {
+        "word": "side",
+        "ipa": "/saɪd/",
+        "cn": "边",
+        "image": "📘",
+        "example": "“side” — undefined"
+      },
+      {
+        "word": "wide",
+        "ipa": "/waɪd/",
+        "cn": "宽",
+        "image": "📘",
+        "example": "“wide” — undefined"
+      }
+    ],
+    "note": "长元音 /aɪd/ 词族"
+  },
+  {
+    "id": "wf-055",
+    "phonics": "-ice",
+    "sound": "/aɪs/",
+    "level": "L0",
+    "group": "long-i",
+    "anchor": {
+      "word": "rice",
+      "ipa": "/raɪs/",
+      "cn": "米饭",
+      "image": "📘",
+      "example": "“rice” — undefined"
+    },
+    "members": [
+      {
+        "word": "nice",
+        "ipa": "/naɪs/",
+        "cn": "好",
+        "image": "📘",
+        "example": "“nice” — undefined"
+      },
+      {
+        "word": "ice",
+        "ipa": "/?aɪs/",
+        "cn": "冰",
+        "image": "📘",
+        "example": "“ice” — undefined"
+      }
+    ],
+    "note": "长元音 /aɪs/ 词族"
+  },
+  {
+    "id": "wf-056",
+    "phonics": "-oke",
+    "sound": "/əʊk/",
+    "level": "L0",
+    "group": "long-o",
+    "anchor": {
+      "word": "joke",
+      "ipa": "/dʒəʊk/",
+      "cn": "玩笑",
+      "image": "📘",
+      "example": "“joke” — undefined"
+    },
+    "members": [
+      {
+        "word": "coke",
+        "ipa": "/kəʊk/",
+        "cn": "可乐",
+        "image": "📘",
+        "example": "“coke” — undefined"
+      },
+      {
+        "word": "poke",
+        "ipa": "/pəʊk/",
+        "cn": "戳",
+        "image": "📘",
+        "example": "“poke” — undefined"
+      }
+    ],
+    "note": "长元音 /əʊk/ 词族"
+  },
+  {
+    "id": "wf-057",
+    "phonics": "-ote",
+    "sound": "/əʊt/",
+    "level": "L0",
+    "group": "long-o",
+    "anchor": {
+      "word": "note",
+      "ipa": "/nəʊt/",
+      "cn": "笔记",
+      "image": "📘",
+      "example": "“note” — undefined"
+    },
+    "members": [
+      {
+        "word": "vote",
+        "ipa": "/vəʊt/",
+        "cn": "投票",
+        "image": "📘",
+        "example": "“vote” — undefined"
+      }
+    ],
+    "note": "长元音 /əʊt/ 词族"
+  },
+  {
+    "id": "wf-058",
+    "phonics": "-ole",
+    "sound": "/əʊl/",
+    "level": "L0",
+    "group": "long-o",
+    "anchor": {
+      "word": "hole",
+      "ipa": "/həʊl/",
+      "cn": "洞",
+      "image": "📘",
+      "example": "“hole” — undefined"
+    },
+    "members": [
+      {
+        "word": "role",
+        "ipa": "/rəʊl/",
+        "cn": "角色",
+        "image": "📘",
+        "example": "“role” — undefined"
+      },
+      {
+        "word": "pole",
+        "ipa": "/pəʊl/",
+        "cn": "杆",
+        "image": "📘",
+        "example": "“pole” — undefined"
+      }
+    ],
+    "note": "长元音 /əʊl/ 词族"
+  },
+  {
+    "id": "wf-059",
+    "phonics": "-one",
+    "sound": "/əʊn/",
+    "level": "L0",
+    "group": "long-o",
+    "anchor": {
+      "word": "bone",
+      "ipa": "/bəʊn/",
+      "cn": "骨头",
+      "image": "📘",
+      "example": "“bone” — undefined"
+    },
+    "members": [
+      {
+        "word": "cone",
+        "ipa": "/kəʊn/",
+        "cn": "圆锥",
+        "image": "📘",
+        "example": "“cone” — undefined"
+      },
+      {
+        "word": "stone",
+        "ipa": "/səʊn/",
+        "cn": "石头",
+        "image": "📘",
+        "example": "“stone” — undefined"
+      }
+    ],
+    "note": "长元音 /əʊn/ 词族"
+  },
+  {
+    "id": "wf-060",
+    "phonics": "-ope",
+    "sound": "/əʊp/",
+    "level": "L0",
+    "group": "long-o",
+    "anchor": {
+      "word": "hope",
+      "ipa": "/həʊp/",
+      "cn": "希望",
+      "image": "📘",
+      "example": "“hope” — undefined"
+    },
+    "members": [
+      {
+        "word": "rope",
+        "ipa": "/rəʊp/",
+        "cn": "绳子",
+        "image": "📘",
+        "example": "“rope” — undefined"
+      },
+      {
+        "word": "cope",
+        "ipa": "/kəʊp/",
+        "cn": "应付",
+        "image": "📘",
+        "example": "“cope” — undefined"
+      }
+    ],
+    "note": "长元音 /əʊp/ 词族"
+  },
+  {
+    "id": "wf-061",
+    "phonics": "-ute",
+    "sound": "/juːt/",
+    "level": "L0",
+    "group": "long-u",
+    "anchor": {
+      "word": "cute",
+      "ipa": "/kjuːt/",
+      "cn": "可爱",
+      "image": "📘",
+      "example": "“cute” — undefined"
+    },
+    "members": [
+      {
+        "word": "flute",
+        "ipa": "/fjuːt/",
+        "cn": "长笛",
+        "image": "📘",
+        "example": "“flute” — undefined"
+      }
+    ],
+    "note": "长元音 /juːt/ 词族"
+  },
+  {
+    "id": "wf-062",
+    "phonics": "-une",
+    "sound": "/juːn/",
+    "level": "L0",
+    "group": "long-u",
+    "anchor": {
+      "word": "tune",
+      "ipa": "/tjuːn/",
+      "cn": "曲调",
+      "image": "📘",
+      "example": "“tune” — undefined"
+    },
+    "members": [
+      {
+        "word": "june",
+        "ipa": "/dʒjuːn/",
+        "cn": "六月",
+        "image": "📘",
+        "example": "“june” — undefined"
+      }
+    ],
+    "note": "长元音 /juːn/ 词族"
+  },
+  {
+    "id": "wf-063",
+    "phonics": "-ube",
+    "sound": "/juːb/",
+    "level": "L0",
+    "group": "long-u",
+    "anchor": {
+      "word": "cube",
+      "ipa": "/kjuːb/",
+      "cn": "立方体",
+      "image": "📘",
+      "example": "“cube” — undefined"
+    },
+    "members": [
+      {
+        "word": "tube",
+        "ipa": "/tjuːb/",
+        "cn": "管子",
+        "image": "📘",
+        "example": "“tube” — undefined"
+      }
+    ],
+    "note": "长元音 /juːb/ 词族"
+  },
+  {
+    "id": "wf-064",
+    "phonics": "-all",
+    "sound": "/ɔːl/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "ball",
+      "ipa": "/bɔːl/",
+      "cn": "球",
+      "image": "⚽",
+      "example": "“ball” — undefined"
+    },
+    "members": [
+      {
+        "word": "call",
+        "ipa": "/kɔːl/",
+        "cn": "叫",
+        "image": "📘",
+        "example": "“call” — undefined"
+      },
+      {
+        "word": "fall",
+        "ipa": "/fɔːl/",
+        "cn": "落下",
+        "image": "📘",
+        "example": "“fall” — undefined"
+      },
+      {
+        "word": "tall",
+        "ipa": "/tɔːl/",
+        "cn": "高",
+        "image": "📘",
+        "example": "“tall” — undefined"
+      },
+      {
+        "word": "small",
+        "ipa": "/sɔːl/",
+        "cn": "小",
+        "image": "📘",
+        "example": "“small” — undefined"
+      },
+      {
+        "word": "wall",
+        "ipa": "/wɔːl/",
+        "cn": "墙",
+        "image": "📘",
+        "example": "“wall” — undefined"
+      }
+    ],
+    "note": "组合 /ɔːl/ 词族"
+  },
+  {
+    "id": "wf-065",
+    "phonics": "-ay",
+    "sound": "/eɪ/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "day",
+      "ipa": "/deɪ/",
+      "cn": "天",
+      "image": "📘",
+      "example": "“day” — undefined"
+    },
+    "members": [
+      {
+        "word": "play",
+        "ipa": "/peɪ/",
+        "cn": "玩",
+        "image": "📘",
+        "example": "“play” — undefined"
+      },
+      {
+        "word": "say",
+        "ipa": "/seɪ/",
+        "cn": "说",
+        "image": "📘",
+        "example": "“say” — undefined"
+      },
+      {
+        "word": "way",
+        "ipa": "/weɪ/",
+        "cn": "路",
+        "image": "📘",
+        "example": "“way” — undefined"
+      },
+      {
+        "word": "may",
+        "ipa": "/meɪ/",
+        "cn": "可以",
+        "image": "📘",
+        "example": "“may” — undefined"
+      },
+      {
+        "word": "lay",
+        "ipa": "/leɪ/",
+        "cn": "放",
+        "image": "📘",
+        "example": "“lay” — undefined"
+      }
+    ],
+    "note": "组合 /eɪ/ 词族"
+  },
+  {
+    "id": "wf-066",
+    "phonics": "-ook",
+    "sound": "/ʊk/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "cn": "书",
+      "image": "📖",
+      "example": "“book” — undefined"
+    },
+    "members": [
+      {
+        "word": "look",
+        "ipa": "/lʊk/",
+        "cn": "看",
+        "image": "📘",
+        "example": "“look” — undefined"
+      },
+      {
+        "word": "cook",
+        "ipa": "/kʊk/",
+        "cn": "煮",
+        "image": "📘",
+        "example": "“cook” — undefined"
+      },
+      {
+        "word": "hook",
+        "ipa": "/hʊk/",
+        "cn": "钩",
+        "image": "📘",
+        "example": "“hook” — undefined"
+      }
+    ],
+    "note": "组合 /ʊk/ 词族"
+  },
+  {
+    "id": "wf-067",
+    "phonics": "-ood",
+    "sound": "/ʊd/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "good",
+      "ipa": "/gʊd/",
+      "cn": "好",
+      "image": "📘",
+      "example": "“good” — undefined"
+    },
+    "members": [
+      {
+        "word": "foot",
+        "ipa": "/fʊd/",
+        "cn": "脚",
+        "image": "🦶",
+        "example": "“foot” — undefined"
+      },
+      {
+        "word": "wood",
+        "ipa": "/wʊd/",
+        "cn": "木头",
+        "image": "📘",
+        "example": "“wood” — undefined"
+      }
+    ],
+    "note": "组合 /ʊd/ 词族"
+  },
+  {
+    "id": "wf-068",
+    "phonics": "-ue",
+    "sound": "/uː/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "blue",
+      "ipa": "/buː/",
+      "cn": "蓝色",
+      "image": "📘",
+      "example": "“blue” — undefined"
+    },
+    "members": [
+      {
+        "word": "glue",
+        "ipa": "/guː/",
+        "cn": "胶水",
+        "image": "📘",
+        "example": "“glue” — undefined"
+      },
+      {
+        "word": "clue",
+        "ipa": "/kuː/",
+        "cn": "线索",
+        "image": "📘",
+        "example": "“clue” — undefined"
+      }
+    ],
+    "note": "组合 /uː/ 词族"
+  },
+  {
+    "id": "wf-069",
+    "phonics": "-ain",
+    "sound": "/eɪn/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "rain",
+      "ipa": "/reɪn/",
+      "cn": "雨",
+      "image": "📘",
+      "example": "“rain” — undefined"
+    },
+    "members": [
+      {
+        "word": "train",
+        "ipa": "/teɪn/",
+        "cn": "火车",
+        "image": "📘",
+        "example": "“train” — undefined"
+      },
+      {
+        "word": "main",
+        "ipa": "/meɪn/",
+        "cn": "主要的",
+        "image": "📘",
+        "example": "“main” — undefined"
+      },
+      {
+        "word": "pain",
+        "ipa": "/peɪn/",
+        "cn": "疼痛",
+        "image": "📘",
+        "example": "“pain” — undefined"
+      }
+    ],
+    "note": "组合 /eɪn/ 词族"
+  },
+  {
+    "id": "wf-070",
+    "phonics": "-oat",
+    "sound": "/əʊt/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "boat",
+      "ipa": "/bəʊt/",
+      "cn": "船",
+      "image": "📘",
+      "example": "“boat” — undefined"
+    },
+    "members": [
+      {
+        "word": "coat",
+        "ipa": "/kəʊt/",
+        "cn": "外套",
+        "image": "📘",
+        "example": "“coat” — undefined"
+      },
+      {
+        "word": "goat",
+        "ipa": "/gəʊt/",
+        "cn": "山羊",
+        "image": "📘",
+        "example": "“goat” — undefined"
+      },
+      {
+        "word": "float",
+        "ipa": "/fəʊt/",
+        "cn": "浮",
+        "image": "📘",
+        "example": "“float” — undefined"
+      }
+    ],
+    "note": "组合 /əʊt/ 词族"
+  },
+  {
+    "id": "wf-071",
+    "phonics": "-ouse",
+    "sound": "/aʊs/",
+    "level": "L0",
+    "group": "blend",
+    "anchor": {
+      "word": "house",
+      "ipa": "/haʊs/",
+      "cn": "房子",
+      "image": "📘",
+      "example": "“house” — undefined"
+    },
+    "members": [
+      {
+        "word": "mouse",
+        "ipa": "/maʊs/",
+        "cn": "老鼠",
+        "image": "📘",
+        "example": "“mouse” — undefined"
+      },
+      {
+        "word": "mouth",
+        "ipa": "/maʊs/",
+        "cn": "嘴",
+        "image": "👄",
+        "example": "“mouth” — undefined"
+      }
+    ],
+    "note": "组合 /aʊs/ 词族"
   }
 ]
