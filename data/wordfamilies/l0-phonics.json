@@ -1,0 +1,86 @@
+[
+  {
+    "id": "wf-001",
+    "phonics": "-at",
+    "sound": "/æt/",
+    "level": "L0",
+    "anchor": { "word": "cat", "ipa": "/kæt/", "cn": "猫", "image": "🐱" },
+    "members": [
+      { "word": "bat", "ipa": "/bæt/", "cn": "蝙蝠", "image": "🦇", "example": "A bat flies at night." },
+      { "word": "hat", "ipa": "/hæt/", "cn": "帽子", "image": "🎩", "example": "Put on your hat." },
+      { "word": "mat", "ipa": "/mæt/", "cn": "垫子", "image": "🟫", "example": "The cat sits on the mat." },
+      { "word": "rat", "ipa": "/ræt/", "cn": "老鼠", "image": "🐀", "example": "A rat ate the cheese." }
+    ],
+    "note": "短元音 /æt/ 词族"
+  },
+  {
+    "id": "wf-002",
+    "phonics": "-an",
+    "sound": "/æn/",
+    "level": "L0",
+    "anchor": { "word": "man", "ipa": "/mæn/", "cn": "男人", "image": "🧑" },
+    "members": [
+      { "word": "can", "ipa": "/kæn/", "cn": "能；罐头", "image": "🥫", "example": "I can swim." },
+      { "word": "fan", "ipa": "/fæn/", "cn": "扇子；粉丝", "image": "🪭", "example": "The fan is cool." },
+      { "word": "pan", "ipa": "/pæn/", "cn": "平底锅", "image": "🍳", "example": "Fry an egg in the pan." },
+      { "word": "ran", "ipa": "/ræn/", "cn": "跑（过去）", "image": "🏃", "example": "He ran to school." }
+    ],
+    "note": "短元音 /æn/ 词族"
+  },
+  {
+    "id": "wf-003",
+    "phonics": "-ig",
+    "sound": "/ɪɡ/",
+    "level": "L0",
+    "anchor": { "word": "pig", "ipa": "/pɪɡ/", "cn": "猪", "image": "🐷" },
+    "members": [
+      { "word": "big", "ipa": "/bɪɡ/", "cn": "大的", "image": "🐘", "example": "A big dog." },
+      { "word": "dig", "ipa": "/dɪɡ/", "cn": "挖", "image": "⛏️", "example": "Dig a hole." },
+      { "word": "wig", "ipa": "/wɪɡ/", "cn": "假发", "image": "💇", "example": "She wears a wig." },
+      { "word": "fig", "ipa": "/fɪɡ/", "cn": "无花果", "image": "🍈", "example": "I eat a fig." }
+    ],
+    "note": "短元音 /ɪɡ/ 词族"
+  },
+  {
+    "id": "wf-004",
+    "phonics": "-op",
+    "sound": "/ɒp/",
+    "level": "L0",
+    "anchor": { "word": "top", "ipa": "/tɒp/", "cn": "顶部", "image": "🔝" },
+    "members": [
+      { "word": "hop", "ipa": "/hɒp/", "cn": "单脚跳", "image": "🐰", "example": "The frog can hop." },
+      { "word": "pop", "ipa": "/pɒp/", "cn": "流行；砰", "image": "🍿", "example": "Pop the balloon." },
+      { "word": "mop", "ipa": "/mɒp/", "cn": "拖把", "image": "🧹", "example": "Mop the floor." },
+      { "word": "cop", "ipa": "/kɒp/", "cn": "警察", "image": "👮", "example": "The cop is here." }
+    ],
+    "note": "短元音 /ɒp/ 词族"
+  },
+  {
+    "id": "wf-005",
+    "phonics": "-ee",
+    "sound": "/iː/",
+    "level": "L0",
+    "anchor": { "word": "see", "ipa": "/siː/", "cn": "看见", "image": "👀" },
+    "members": [
+      { "word": "bee", "ipa": "/biː/", "cn": "蜜蜂", "image": "🐝", "example": "A bee is busy." },
+      { "word": "tree", "ipa": "/triː/", "cn": "树", "image": "🌳", "example": "The bird is in the tree." },
+      { "word": "feet", "ipa": "/fiːt/", "cn": "脚（复数）", "image": "🦶", "example": "My feet are cold." },
+      { "word": "meet", "ipa": "/miːt/", "cn": "遇见", "image": "🤝", "example": "Nice to meet you." }
+    ],
+    "note": "长元音 /iː/ 词族"
+  },
+  {
+    "id": "wf-006",
+    "phonics": "-eep",
+    "sound": "/iːp/",
+    "level": "L0",
+    "anchor": { "word": "deep", "ipa": "/diːp/", "cn": "深的", "image": "🌊" },
+    "members": [
+      { "word": "sheep", "ipa": "/ʃiːp/", "cn": "绵羊", "image": "🐑", "example": "The sheep is on the hill." },
+      { "word": "sleep", "ipa": "/sliːp/", "cn": "睡觉", "image": "😴", "example": "I sleep at 10 p.m." },
+      { "word": "keep", "ipa": "/kiːp/", "cn": "保持", "image": "🛡️", "example": "Keep the change." },
+      { "word": "jeep", "ipa": "/dʒiːp/", "cn": "吉普车", "image": "🚙", "example": "He drives a jeep." }
+    ],
+    "note": "长元音 /iːp/ 词族 —— 记住 deep，整族一起记"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "level": "A1",
+  "description": "A1 高频核心词（示例，P1 阶段扩充至 1000）",
+  "words": [
+    { "word": "hello", "ipa": "/həˈləʊ/", "cn": "你好", "example": "Hello, my name is Luke." },
+    { "word": "name", "ipa": "/neɪm/", "cn": "名字", "example": "What is your name?" },
+    { "word": "friend", "ipa": "/frend/", "cn": "朋友", "example": "He is my friend." },
+    { "word": "water", "ipa": "/ˈwɔːtə/", "cn": "水", "example": "I drink water." },
+    { "word": "eat", "ipa": "/iːt/", "cn": "吃", "example": "We eat rice." },
+    { "word": "go", "ipa": "/ɡəʊ/", "cn": "去", "example": "I go to school." },
+    { "word": "happy", "ipa": "/ˈhæpi/", "cn": "开心", "example": "She is happy." },
+    { "word": "book", "ipa": "/bʊk/", "cn": "书", "example": "This is a book." }
+  ]
+}

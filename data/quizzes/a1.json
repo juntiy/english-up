@@ -1,0 +1,23 @@
+{
+  "level": "A1",
+  "description": "A1 自测示例（P1 阶段扩充）",
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "“水”的英文是？",
+      "options": ["water", "fire", "air", "earth"],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "I ___ to school every day. （去）",
+      "answer": "go"
+    },
+    {
+      "type": "choice",
+      "prompt": "“朋友”的英文是？",
+      "options": ["friend", "family", "teacher", "student"],
+      "answer": 0
+    }
+  ]
+}

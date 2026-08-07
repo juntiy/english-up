@@ -1,0 +1,9 @@
+node_modules
+docs/.vitepress/dist
+docs/.vitepress/cache
+docs/.vitepress/.temp
+.wordfamily-report.txt
+anki-import.tsv
+.DS_Store
+*.local
+.env
