@@ -4,6 +4,7 @@ docs/.vitepress/cache
 docs/.vitepress/.temp
 .wordfamily-report.txt
 anki-import.tsv
+jobs*.json
 .DS_Store
 *.local
 .env
