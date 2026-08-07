@@ -8,7 +8,8 @@ export default defineConfig({
   lang: 'zh-CN',
   themeConfig: {
     nav: [
-      { text: '首页', link: '/' },
+      { text: '学习中心', link: '/' },
+      { text: '课程', link: '/levels/l0/overview' },
       { text: '路线图', link: '/guide/roadmap' },
       { text: '词族卡 Demo', link: '/demo/word-family' },
     ],

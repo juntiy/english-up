@@ -191,9 +191,9 @@ function ipaOf(word, suffixSound) {
 }
 function emojiOf(word) { return EMOJI[word] || '📘' }
 function cnOf(word) { return CN[word] || '（释义待补）' }
-function exampleOf(word, cn) {
+function exampleOf(word) {
   // 通用且不会犯语法错误的背面参考：单词 — 释义
-  return `“${word}” — ${cn}`
+  return `“${word}” — ${cnOf(word)}`
 }
 
 const out = FAMILIES.map(([phonics, sound, anchorWord, members, note, group], i) => {

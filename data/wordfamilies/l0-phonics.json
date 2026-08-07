@@ -10,7 +10,7 @@
       "ipa": "/kæt/",
       "cn": "猫",
       "image": "🐱",
-      "example": "“cat” — undefined"
+      "example": "“cat” — 猫"
     },
     "members": [
       {
@@ -18,35 +18,35 @@
         "ipa": "/bæt/",
         "cn": "蝙蝠",
         "image": "🦇",
-        "example": "“bat” — undefined"
+        "example": "“bat” — 蝙蝠"
       },
       {
         "word": "hat",
         "ipa": "/hæt/",
         "cn": "帽子",
         "image": "🎩",
-        "example": "“hat” — undefined"
+        "example": "“hat” — 帽子"
       },
       {
         "word": "mat",
         "ipa": "/mæt/",
         "cn": "垫子",
         "image": "🟫",
-        "example": "“mat” — undefined"
+        "example": "“mat” — 垫子"
       },
       {
         "word": "rat",
         "ipa": "/ræt/",
         "cn": "老鼠",
         "image": "🐀",
-        "example": "“rat” — undefined"
+        "example": "“rat” — 老鼠"
       },
       {
         "word": "sat",
         "ipa": "/sæt/",
         "cn": "坐",
         "image": "📘",
-        "example": "“sat” — undefined"
+        "example": "“sat” — 坐"
       }
     ],
     "note": "短元音 /æt/ 词族"
@@ -62,7 +62,7 @@
       "ipa": "/mæn/",
       "cn": "男人",
       "image": "📘",
-      "example": "“man” — undefined"
+      "example": "“man” — 男人"
     },
     "members": [
       {
@@ -70,35 +70,35 @@
         "ipa": "/kæn/",
         "cn": "能；罐头",
         "image": "📘",
-        "example": "“can” — undefined"
+        "example": "“can” — 能；罐头"
       },
       {
         "word": "fan",
         "ipa": "/fæn/",
         "cn": "扇子；粉丝",
         "image": "📘",
-        "example": "“fan” — undefined"
+        "example": "“fan” — 扇子；粉丝"
       },
       {
         "word": "pan",
         "ipa": "/pæn/",
         "cn": "平底锅",
         "image": "📘",
-        "example": "“pan” — undefined"
+        "example": "“pan” — 平底锅"
       },
       {
         "word": "ran",
         "ipa": "/ræn/",
         "cn": "跑(过去)",
         "image": "📘",
-        "example": "“ran” — undefined"
+        "example": "“ran” — 跑(过去)"
       },
       {
         "word": "van",
         "ipa": "/væn/",
         "cn": "面包车",
         "image": "📘",
-        "example": "“van” — undefined"
+        "example": "“van” — 面包车"
       }
     ],
     "note": "短元音 /æn/ 词族"
@@ -114,7 +114,7 @@
       "ipa": "/kæp/",
       "cn": "帽子",
       "image": "📘",
-      "example": "“cap” — undefined"
+      "example": "“cap” — 帽子"
     },
     "members": [
       {
@@ -122,28 +122,28 @@
         "ipa": "/mæp/",
         "cn": "地图",
         "image": "📘",
-        "example": "“map” — undefined"
+        "example": "“map” — 地图"
       },
       {
         "word": "nap",
         "ipa": "/næp/",
         "cn": "小睡",
         "image": "📘",
-        "example": "“nap” — undefined"
+        "example": "“nap” — 小睡"
       },
       {
         "word": "tap",
         "ipa": "/tæp/",
         "cn": "轻敲",
         "image": "📘",
-        "example": "“tap” — undefined"
+        "example": "“tap” — 轻敲"
       },
       {
         "word": "lap",
         "ipa": "/læp/",
         "cn": "大腿",
         "image": "📘",
-        "example": "“lap” — undefined"
+        "example": "“lap” — 大腿"
       }
     ],
     "note": "短元音 /æp/ 词族"
@@ -159,7 +159,7 @@
       "ipa": "/bæg/",
       "cn": "包",
       "image": "📘",
-      "example": "“bag” — undefined"
+      "example": "“bag” — 包"
     },
     "members": [
       {
@@ -167,21 +167,21 @@
         "ipa": "/tæg/",
         "cn": "标签",
         "image": "📘",
-        "example": "“tag” — undefined"
+        "example": "“tag” — 标签"
       },
       {
         "word": "rag",
         "ipa": "/ræg/",
         "cn": "破布",
         "image": "📘",
-        "example": "“rag” — undefined"
+        "example": "“rag” — 破布"
       },
       {
         "word": "flag",
         "ipa": "/fæg/",
         "cn": "旗帜",
         "image": "📘",
-        "example": "“flag” — undefined"
+        "example": "“flag” — 旗帜"
       }
     ],
     "note": "短元音 /æg/ 词族"
@@ -197,7 +197,7 @@
       "ipa": "/dæd/",
       "cn": "爸爸",
       "image": "📘",
-      "example": "“dad” — undefined"
+      "example": "“dad” — 爸爸"
     },
     "members": [
       {
@@ -205,21 +205,21 @@
         "ipa": "/mæd/",
         "cn": "生气",
         "image": "📘",
-        "example": "“mad” — undefined"
+        "example": "“mad” — 生气"
       },
       {
         "word": "sad",
         "ipa": "/sæd/",
         "cn": "伤心",
         "image": "📘",
-        "example": "“sad” — undefined"
+        "example": "“sad” — 伤心"
       },
       {
         "word": "pad",
         "ipa": "/pæd/",
         "cn": "垫",
         "image": "📘",
-        "example": "“pad” — undefined"
+        "example": "“pad” — 垫"
       }
     ],
     "note": "短元音 /æd/ 词族"
@@ -235,7 +235,7 @@
       "ipa": "/hæm/",
       "cn": "火腿",
       "image": "📘",
-      "example": "“ham” — undefined"
+      "example": "“ham” — 火腿"
     },
     "members": [
       {
@@ -243,14 +243,14 @@
         "ipa": "/dʒæm/",
         "cn": "果酱",
         "image": "📘",
-        "example": "“jam” — undefined"
+        "example": "“jam” — 果酱"
       },
       {
         "word": "ram",
         "ipa": "/ræm/",
         "cn": "公羊",
         "image": "📘",
-        "example": "“ram” — undefined"
+        "example": "“ram” — 公羊"
       }
     ],
     "note": "短元音 /æm/ 词族"
@@ -266,7 +266,7 @@
       "ipa": "/bæk/",
       "cn": "背；后面",
       "image": "📘",
-      "example": "“back” — undefined"
+      "example": "“back” — 背；后面"
     },
     "members": [
       {
@@ -274,21 +274,21 @@
         "ipa": "/pæk/",
         "cn": "打包",
         "image": "📘",
-        "example": "“pack” — undefined"
+        "example": "“pack” — 打包"
       },
       {
         "word": "sack",
         "ipa": "/sæk/",
         "cn": "麻袋",
         "image": "📘",
-        "example": "“sack” — undefined"
+        "example": "“sack” — 麻袋"
       },
       {
         "word": "black",
         "ipa": "/bæk/",
         "cn": "黑色",
         "image": "📘",
-        "example": "“black” — undefined"
+        "example": "“black” — 黑色"
       }
     ],
     "note": "短元音 /æk/ 词族"
@@ -304,7 +304,7 @@
       "ipa": "/hænd/",
       "cn": "手",
       "image": "✋",
-      "example": "“hand” — undefined"
+      "example": "“hand” — 手"
     },
     "members": [
       {
@@ -312,21 +312,21 @@
         "ipa": "/lænd/",
         "cn": "土地",
         "image": "📘",
-        "example": "“land” — undefined"
+        "example": "“land” — 土地"
       },
       {
         "word": "sand",
         "ipa": "/sænd/",
         "cn": "沙子",
         "image": "📘",
-        "example": "“sand” — undefined"
+        "example": "“sand” — 沙子"
       },
       {
         "word": "band",
         "ipa": "/bænd/",
         "cn": "乐队",
         "image": "📘",
-        "example": "“band” — undefined"
+        "example": "“band” — 乐队"
       }
     ],
     "note": "短元音 /ænd/ 词族"
@@ -342,7 +342,7 @@
       "ipa": "/kæʃ/",
       "cn": "现金",
       "image": "📘",
-      "example": "“cash” — undefined"
+      "example": "“cash” — 现金"
     },
     "members": [
       {
@@ -350,14 +350,14 @@
         "ipa": "/wæʃ/",
         "cn": "洗",
         "image": "📘",
-        "example": "“wash” — undefined"
+        "example": "“wash” — 洗"
       },
       {
         "word": "flash",
         "ipa": "/fæʃ/",
         "cn": "闪光",
         "image": "📘",
-        "example": "“flash” — undefined"
+        "example": "“flash” — 闪光"
       }
     ],
     "note": "短元音 /æʃ/ 词族"
@@ -373,7 +373,7 @@
       "ipa": "/hen/",
       "cn": "母鸡",
       "image": "📘",
-      "example": "“hen” — undefined"
+      "example": "“hen” — 母鸡"
     },
     "members": [
       {
@@ -381,28 +381,28 @@
         "ipa": "/pen/",
         "cn": "钢笔",
         "image": "🖊️",
-        "example": "“pen” — undefined"
+        "example": "“pen” — 钢笔"
       },
       {
         "word": "ten",
         "ipa": "/ten/",
         "cn": "十",
         "image": "📘",
-        "example": "“ten” — undefined"
+        "example": "“ten” — 十"
       },
       {
         "word": "men",
         "ipa": "/men/",
         "cn": "男人们",
         "image": "📘",
-        "example": "“men” — undefined"
+        "example": "“men” — 男人们"
       },
       {
         "word": "den",
         "ipa": "/den/",
         "cn": "兽穴",
         "image": "📘",
-        "example": "“den” — undefined"
+        "example": "“den” — 兽穴"
       }
     ],
     "note": "短元音 /en/ 词族"
@@ -418,7 +418,7 @@
       "ipa": "/net/",
       "cn": "网",
       "image": "📘",
-      "example": "“net” — undefined"
+      "example": "“net” — 网"
     },
     "members": [
       {
@@ -426,28 +426,28 @@
         "ipa": "/pet/",
         "cn": "宠物",
         "image": "📘",
-        "example": "“pet” — undefined"
+        "example": "“pet” — 宠物"
       },
       {
         "word": "wet",
         "ipa": "/wet/",
         "cn": "湿",
         "image": "📘",
-        "example": "“wet” — undefined"
+        "example": "“wet” — 湿"
       },
       {
         "word": "vet",
         "ipa": "/vet/",
         "cn": "兽医",
         "image": "📘",
-        "example": "“vet” — undefined"
+        "example": "“vet” — 兽医"
       },
       {
         "word": "set",
         "ipa": "/set/",
         "cn": "一套",
         "image": "📘",
-        "example": "“set” — undefined"
+        "example": "“set” — 一套"
       }
     ],
     "note": "短元音 /et/ 词族"
@@ -463,7 +463,7 @@
       "ipa": "/bed/",
       "cn": "床",
       "image": "🛏️",
-      "example": "“bed” — undefined"
+      "example": "“bed” — 床"
     },
     "members": [
       {
@@ -471,21 +471,21 @@
         "ipa": "/red/",
         "cn": "红色",
         "image": "📘",
-        "example": "“red” — undefined"
+        "example": "“red” — 红色"
       },
       {
         "word": "fed",
         "ipa": "/fed/",
         "cn": "喂(过去)",
         "image": "📘",
-        "example": "“fed” — undefined"
+        "example": "“fed” — 喂(过去)"
       },
       {
         "word": "wed",
         "ipa": "/wed/",
         "cn": "结婚",
         "image": "📘",
-        "example": "“wed” — undefined"
+        "example": "“wed” — 结婚"
       }
     ],
     "note": "短元音 /ed/ 词族"
@@ -501,7 +501,7 @@
       "ipa": "/leg/",
       "cn": "腿",
       "image": "📘",
-      "example": "“leg” — undefined"
+      "example": "“leg” — 腿"
     },
     "members": [
       {
@@ -509,14 +509,14 @@
         "ipa": "/?eg/",
         "cn": "蛋",
         "image": "🥚",
-        "example": "“egg” — undefined"
+        "example": "“egg” — 蛋"
       },
       {
         "word": "peg",
         "ipa": "/peg/",
         "cn": "挂钩",
         "image": "📘",
-        "example": "“peg” — undefined"
+        "example": "“peg” — 挂钩"
       }
     ],
     "note": "短元音 /eg/ 词族"
@@ -532,7 +532,7 @@
       "ipa": "/bel/",
       "cn": "铃",
       "image": "📘",
-      "example": "“bell” — undefined"
+      "example": "“bell” — 铃"
     },
     "members": [
       {
@@ -540,21 +540,21 @@
         "ipa": "/sel/",
         "cn": "卖",
         "image": "📘",
-        "example": "“sell” — undefined"
+        "example": "“sell” — 卖"
       },
       {
         "word": "tell",
         "ipa": "/tel/",
         "cn": "告诉",
         "image": "📘",
-        "example": "“tell” — undefined"
+        "example": "“tell” — 告诉"
       },
       {
         "word": "well",
         "ipa": "/wel/",
         "cn": "好；井",
         "image": "📘",
-        "example": "“well” — undefined"
+        "example": "“well” — 好；井"
       }
     ],
     "note": "短元音 /el/ 词族"
@@ -570,7 +570,7 @@
       "ipa": "/best/",
       "cn": "最好",
       "image": "📘",
-      "example": "“best” — undefined"
+      "example": "“best” — 最好"
     },
     "members": [
       {
@@ -578,21 +578,21 @@
         "ipa": "/rest/",
         "cn": "休息",
         "image": "📘",
-        "example": "“rest” — undefined"
+        "example": "“rest” — 休息"
       },
       {
         "word": "nest",
         "ipa": "/nest/",
         "cn": "鸟巢",
         "image": "📘",
-        "example": "“nest” — undefined"
+        "example": "“nest” — 鸟巢"
       },
       {
         "word": "west",
         "ipa": "/west/",
         "cn": "西方",
         "image": "📘",
-        "example": "“west” — undefined"
+        "example": "“west” — 西方"
       }
     ],
     "note": "短元音 /est/ 词族"
@@ -608,7 +608,7 @@
       "ipa": "/pɪg/",
       "cn": "猪",
       "image": "🐷",
-      "example": "“pig” — undefined"
+      "example": "“pig” — 猪"
     },
     "members": [
       {
@@ -616,21 +616,21 @@
         "ipa": "/bɪg/",
         "cn": "大",
         "image": "📘",
-        "example": "“big” — undefined"
+        "example": "“big” — 大"
       },
       {
         "word": "dig",
         "ipa": "/dɪg/",
         "cn": "挖",
         "image": "📘",
-        "example": "“dig” — undefined"
+        "example": "“dig” — 挖"
       },
       {
         "word": "wig",
         "ipa": "/wɪg/",
         "cn": "假发",
         "image": "📘",
-        "example": "“wig” — undefined"
+        "example": "“wig” — 假发"
       }
     ],
     "note": "短元音 /ɪg/ 词族"
@@ -646,7 +646,7 @@
       "ipa": "/lɪp/",
       "cn": "嘴唇",
       "image": "📘",
-      "example": "“lip” — undefined"
+      "example": "“lip” — 嘴唇"
     },
     "members": [
       {
@@ -654,21 +654,21 @@
         "ipa": "/tɪp/",
         "cn": "尖；小费",
         "image": "📘",
-        "example": "“tip” — undefined"
+        "example": "“tip” — 尖；小费"
       },
       {
         "word": "dip",
         "ipa": "/dɪp/",
         "cn": "蘸",
         "image": "📘",
-        "example": "“dip” — undefined"
+        "example": "“dip” — 蘸"
       },
       {
         "word": "zip",
         "ipa": "/zɪp/",
         "cn": "拉链",
         "image": "📘",
-        "example": "“zip” — undefined"
+        "example": "“zip” — 拉链"
       }
     ],
     "note": "短元音 /ɪp/ 词族"
@@ -684,7 +684,7 @@
       "ipa": "/pɪn/",
       "cn": "别针",
       "image": "📘",
-      "example": "“pin” — undefined"
+      "example": "“pin” — 别针"
     },
     "members": [
       {
@@ -692,21 +692,21 @@
         "ipa": "/wɪn/",
         "cn": "赢",
         "image": "📘",
-        "example": "“win” — undefined"
+        "example": "“win” — 赢"
       },
       {
         "word": "tin",
         "ipa": "/tɪn/",
         "cn": "罐头",
         "image": "📘",
-        "example": "“tin” — undefined"
+        "example": "“tin” — 罐头"
       },
       {
         "word": "bin",
         "ipa": "/bɪn/",
         "cn": "垃圾桶",
         "image": "📘",
-        "example": "“bin” — undefined"
+        "example": "“bin” — 垃圾桶"
       }
     ],
     "note": "短元音 /ɪn/ 词族"
@@ -722,7 +722,7 @@
       "ipa": "/sɪt/",
       "cn": "坐",
       "image": "📘",
-      "example": "“sit” — undefined"
+      "example": "“sit” — 坐"
     },
     "members": [
       {
@@ -730,21 +730,21 @@
         "ipa": "/fɪt/",
         "cn": "合适",
         "image": "📘",
-        "example": "“fit” — undefined"
+        "example": "“fit” — 合适"
       },
       {
         "word": "hit",
         "ipa": "/hɪt/",
         "cn": "打",
         "image": "📘",
-        "example": "“hit” — undefined"
+        "example": "“hit” — 打"
       },
       {
         "word": "bit",
         "ipa": "/bɪt/",
         "cn": "一点",
         "image": "📘",
-        "example": "“bit” — undefined"
+        "example": "“bit” — 一点"
       }
     ],
     "note": "短元音 /ɪt/ 词族"
@@ -760,7 +760,7 @@
       "ipa": "/lɪd/",
       "cn": "盖子",
       "image": "📘",
-      "example": "“lid” — undefined"
+      "example": "“lid” — 盖子"
     },
     "members": [
       {
@@ -768,14 +768,14 @@
         "ipa": "/kɪd/",
         "cn": "小孩",
         "image": "📘",
-        "example": "“kid” — undefined"
+        "example": "“kid” — 小孩"
       },
       {
         "word": "rid",
         "ipa": "/rɪd/",
         "cn": "摆脱",
         "image": "📘",
-        "example": "“rid” — undefined"
+        "example": "“rid” — 摆脱"
       }
     ],
     "note": "短元音 /ɪd/ 词族"
@@ -791,7 +791,7 @@
       "ipa": "/hɪl/",
       "cn": "山",
       "image": "📘",
-      "example": "“hill” — undefined"
+      "example": "“hill” — 山"
     },
     "members": [
       {
@@ -799,21 +799,21 @@
         "ipa": "/bɪl/",
         "cn": "账单",
         "image": "📘",
-        "example": "“bill” — undefined"
+        "example": "“bill” — 账单"
       },
       {
         "word": "fill",
         "ipa": "/fɪl/",
         "cn": "填满",
         "image": "📘",
-        "example": "“fill” — undefined"
+        "example": "“fill” — 填满"
       },
       {
         "word": "pill",
         "ipa": "/pɪl/",
         "cn": "药丸",
         "image": "📘",
-        "example": "“pill” — undefined"
+        "example": "“pill” — 药丸"
       }
     ],
     "note": "短元音 /ɪl/ 词族"
@@ -829,7 +829,7 @@
       "ipa": "/kɪk/",
       "cn": "踢",
       "image": "📘",
-      "example": "“kick” — undefined"
+      "example": "“kick” — 踢"
     },
     "members": [
       {
@@ -837,21 +837,21 @@
         "ipa": "/lɪk/",
         "cn": "舔",
         "image": "📘",
-        "example": "“lick” — undefined"
+        "example": "“lick” — 舔"
       },
       {
         "word": "pick",
         "ipa": "/pɪk/",
         "cn": "捡",
         "image": "📘",
-        "example": "“pick” — undefined"
+        "example": "“pick” — 捡"
       },
       {
         "word": "stick",
         "ipa": "/sɪk/",
         "cn": "棍",
         "image": "📘",
-        "example": "“stick” — undefined"
+        "example": "“stick” — 棍"
       }
     ],
     "note": "短元音 /ɪk/ 词族"
@@ -867,7 +867,7 @@
       "ipa": "/kɪŋ/",
       "cn": "国王",
       "image": "👑",
-      "example": "“king” — undefined"
+      "example": "“king” — 国王"
     },
     "members": [
       {
@@ -875,21 +875,21 @@
         "ipa": "/rɪŋ/",
         "cn": "戒指；环",
         "image": "📘",
-        "example": "“ring” — undefined"
+        "example": "“ring” — 戒指；环"
       },
       {
         "word": "sing",
         "ipa": "/sɪŋ/",
         "cn": "唱",
         "image": "📘",
-        "example": "“sing” — undefined"
+        "example": "“sing” — 唱"
       },
       {
         "word": "wing",
         "ipa": "/wɪŋ/",
         "cn": "翅膀",
         "image": "📘",
-        "example": "“wing” — undefined"
+        "example": "“wing” — 翅膀"
       }
     ],
     "note": "短元音 /ɪŋ/ 词族"
@@ -905,7 +905,7 @@
       "ipa": "/dɒg/",
       "cn": "狗",
       "image": "🐶",
-      "example": "“dog” — undefined"
+      "example": "“dog” — 狗"
     },
     "members": [
       {
@@ -913,21 +913,21 @@
         "ipa": "/lɒg/",
         "cn": "原木",
         "image": "📘",
-        "example": "“log” — undefined"
+        "example": "“log” — 原木"
       },
       {
         "word": "fog",
         "ipa": "/fɒg/",
         "cn": "雾",
         "image": "📘",
-        "example": "“fog” — undefined"
+        "example": "“fog” — 雾"
       },
       {
         "word": "hog",
         "ipa": "/hɒg/",
         "cn": "猪",
         "image": "📘",
-        "example": "“hog” — undefined"
+        "example": "“hog” — 猪"
       }
     ],
     "note": "短元音 /ɒg/ 词族"
@@ -943,7 +943,7 @@
       "ipa": "/tɒp/",
       "cn": "顶部",
       "image": "📘",
-      "example": "“top” — undefined"
+      "example": "“top” — 顶部"
     },
     "members": [
       {
@@ -951,21 +951,21 @@
         "ipa": "/kɒp/",
         "cn": "警察",
         "image": "📘",
-        "example": "“cop” — undefined"
+        "example": "“cop” — 警察"
       },
       {
         "word": "hop",
         "ipa": "/hɒp/",
         "cn": "跳",
         "image": "📘",
-        "example": "“hop” — undefined"
+        "example": "“hop” — 跳"
       },
       {
         "word": "mop",
         "ipa": "/mɒp/",
         "cn": "拖把",
         "image": "📘",
-        "example": "“mop” — undefined"
+        "example": "“mop” — 拖把"
       }
     ],
     "note": "短元音 /ɒp/ 词族"
@@ -981,7 +981,7 @@
       "ipa": "/hɒt/",
       "cn": "热",
       "image": "📘",
-      "example": "“hot” — undefined"
+      "example": "“hot” — 热"
     },
     "members": [
       {
@@ -989,21 +989,21 @@
         "ipa": "/dɒt/",
         "cn": "点",
         "image": "📘",
-        "example": "“dot” — undefined"
+        "example": "“dot” — 点"
       },
       {
         "word": "pot",
         "ipa": "/pɒt/",
         "cn": "锅",
         "image": "📘",
-        "example": "“pot” — undefined"
+        "example": "“pot” — 锅"
       },
       {
         "word": "rot",
         "ipa": "/rɒt/",
         "cn": "腐烂",
         "image": "📘",
-        "example": "“rot” — undefined"
+        "example": "“rot” — 腐烂"
       }
     ],
     "note": "短元音 /ɒt/ 词族"
@@ -1019,7 +1019,7 @@
       "ipa": "/bɒks/",
       "cn": "盒子",
       "image": "📘",
-      "example": "“box” — undefined"
+      "example": "“box” — 盒子"
     },
     "members": [
       {
@@ -1027,7 +1027,7 @@
         "ipa": "/fɒks/",
         "cn": "狐狸",
         "image": "📘",
-        "example": "“fox” — undefined"
+        "example": "“fox” — 狐狸"
       }
     ],
     "note": "短元音 /ɒks/ 词族"
@@ -1043,7 +1043,7 @@
       "ipa": "/dʒɒb/",
       "cn": "工作",
       "image": "📘",
-      "example": "“job” — undefined"
+      "example": "“job” — 工作"
     },
     "members": [
       {
@@ -1051,14 +1051,14 @@
         "ipa": "/rɒb/",
         "cn": "抢",
         "image": "📘",
-        "example": "“rob” — undefined"
+        "example": "“rob” — 抢"
       },
       {
         "word": "cob",
         "ipa": "/kɒb/",
         "cn": "玉米棒",
         "image": "📘",
-        "example": "“cob” — undefined"
+        "example": "“cob” — 玉米棒"
       }
     ],
     "note": "短元音 /ɒb/ 词族"
@@ -1074,7 +1074,7 @@
       "ipa": "/rɒk/",
       "cn": "岩石",
       "image": "📘",
-      "example": "“rock” — undefined"
+      "example": "“rock” — 岩石"
     },
     "members": [
       {
@@ -1082,21 +1082,21 @@
         "ipa": "/lɒk/",
         "cn": "锁",
         "image": "📘",
-        "example": "“lock” — undefined"
+        "example": "“lock” — 锁"
       },
       {
         "word": "sock",
         "ipa": "/sɒk/",
         "cn": "袜子",
         "image": "📘",
-        "example": "“sock” — undefined"
+        "example": "“sock” — 袜子"
       },
       {
         "word": "clock",
         "ipa": "/kɒk/",
         "cn": "时钟",
         "image": "📘",
-        "example": "“clock” — undefined"
+        "example": "“clock” — 时钟"
       }
     ],
     "note": "短元音 /ɒk/ 词族"
@@ -1112,7 +1112,7 @@
       "ipa": "/pɒd/",
       "cn": "豆荚",
       "image": "📘",
-      "example": "“pod” — undefined"
+      "example": "“pod” — 豆荚"
     },
     "members": [
       {
@@ -1120,7 +1120,7 @@
         "ipa": "/rɒd/",
         "cn": "杆",
         "image": "📘",
-        "example": "“rod” — undefined"
+        "example": "“rod” — 杆"
       }
     ],
     "note": "短元音 /ɒd/ 词族"
@@ -1136,7 +1136,7 @@
       "ipa": "/sʌn/",
       "cn": "太阳",
       "image": "☀️",
-      "example": "“sun” — undefined"
+      "example": "“sun” — 太阳"
     },
     "members": [
       {
@@ -1144,28 +1144,28 @@
         "ipa": "/rʌn/",
         "cn": "跑",
         "image": "📘",
-        "example": "“run” — undefined"
+        "example": "“run” — 跑"
       },
       {
         "word": "fun",
         "ipa": "/fʌn/",
         "cn": "有趣",
         "image": "📘",
-        "example": "“fun” — undefined"
+        "example": "“fun” — 有趣"
       },
       {
         "word": "bun",
         "ipa": "/bʌn/",
         "cn": "包子",
         "image": "📘",
-        "example": "“bun” — undefined"
+        "example": "“bun” — 包子"
       },
       {
         "word": "gun",
         "ipa": "/gʌn/",
         "cn": "枪",
         "image": "📘",
-        "example": "“gun” — undefined"
+        "example": "“gun” — 枪"
       }
     ],
     "note": "短元音 /ʌn/ 词族"
@@ -1181,7 +1181,7 @@
       "ipa": "/bʌg/",
       "cn": "虫子",
       "image": "📘",
-      "example": "“bug” — undefined"
+      "example": "“bug” — 虫子"
     },
     "members": [
       {
@@ -1189,21 +1189,21 @@
         "ipa": "/rʌg/",
         "cn": "地毯",
         "image": "📘",
-        "example": "“rug” — undefined"
+        "example": "“rug” — 地毯"
       },
       {
         "word": "mug",
         "ipa": "/mʌg/",
         "cn": "杯子",
         "image": "📘",
-        "example": "“mug” — undefined"
+        "example": "“mug” — 杯子"
       },
       {
         "word": "hug",
         "ipa": "/hʌg/",
         "cn": "拥抱",
         "image": "📘",
-        "example": "“hug” — undefined"
+        "example": "“hug” — 拥抱"
       }
     ],
     "note": "短元音 /ʌg/ 词族"
@@ -1219,7 +1219,7 @@
       "ipa": "/kʌt/",
       "cn": "切",
       "image": "📘",
-      "example": "“cut” — undefined"
+      "example": "“cut” — 切"
     },
     "members": [
       {
@@ -1227,14 +1227,14 @@
         "ipa": "/nʌt/",
         "cn": "坚果",
         "image": "📘",
-        "example": "“nut” — undefined"
+        "example": "“nut” — 坚果"
       },
       {
         "word": "hut",
         "ipa": "/hʌt/",
         "cn": "小屋",
         "image": "📘",
-        "example": "“hut” — undefined"
+        "example": "“hut” — 小屋"
       }
     ],
     "note": "短元音 /ʌt/ 词族"
@@ -1250,7 +1250,7 @@
       "ipa": "/tʌb/",
       "cn": "浴缸",
       "image": "📘",
-      "example": "“tub” — undefined"
+      "example": "“tub” — 浴缸"
     },
     "members": [
       {
@@ -1258,14 +1258,14 @@
         "ipa": "/kʌb/",
         "cn": "幼兽",
         "image": "📘",
-        "example": "“cub” — undefined"
+        "example": "“cub” — 幼兽"
       },
       {
         "word": "sub",
         "ipa": "/sʌb/",
         "cn": "潜水艇",
         "image": "📘",
-        "example": "“sub” — undefined"
+        "example": "“sub” — 潜水艇"
       }
     ],
     "note": "短元音 /ʌb/ 词族"
@@ -1281,7 +1281,7 @@
       "ipa": "/hʌm/",
       "cn": "哼唱",
       "image": "📘",
-      "example": "“hum” — undefined"
+      "example": "“hum” — 哼唱"
     },
     "members": [
       {
@@ -1289,7 +1289,7 @@
         "ipa": "/gʌm/",
         "cn": "口香糖",
         "image": "📘",
-        "example": "“gum” — undefined"
+        "example": "“gum” — 口香糖"
       }
     ],
     "note": "短元音 /ʌm/ 词族"
@@ -1305,7 +1305,7 @@
       "ipa": "/dʌk/",
       "cn": "鸭子",
       "image": "📘",
-      "example": "“duck” — undefined"
+      "example": "“duck” — 鸭子"
     },
     "members": [
       {
@@ -1313,14 +1313,14 @@
         "ipa": "/lʌk/",
         "cn": "运气",
         "image": "📘",
-        "example": "“luck” — undefined"
+        "example": "“luck” — 运气"
       },
       {
         "word": "truck",
         "ipa": "/tʌk/",
         "cn": "卡车",
         "image": "📘",
-        "example": "“truck” — undefined"
+        "example": "“truck” — 卡车"
       }
     ],
     "note": "短元音 /ʌk/ 词族"
@@ -1336,7 +1336,7 @@
       "ipa": "/dʒʌmp/",
       "cn": "跳",
       "image": "📘",
-      "example": "“jump” — undefined"
+      "example": "“jump” — 跳"
     },
     "members": [
       {
@@ -1344,14 +1344,14 @@
         "ipa": "/bʌmp/",
         "cn": "撞",
         "image": "📘",
-        "example": "“bump” — undefined"
+        "example": "“bump” — 撞"
       },
       {
         "word": "pump",
         "ipa": "/pʌmp/",
         "cn": "泵",
         "image": "📘",
-        "example": "“pump” — undefined"
+        "example": "“pump” — 泵"
       }
     ],
     "note": "短元音 /ʌmp/ 词族"
@@ -1367,7 +1367,7 @@
       "ipa": "/keɪk/",
       "cn": "蛋糕",
       "image": "🍰",
-      "example": "“cake” — undefined"
+      "example": "“cake” — 蛋糕"
     },
     "members": [
       {
@@ -1375,21 +1375,21 @@
         "ipa": "/beɪk/",
         "cn": "烤",
         "image": "📘",
-        "example": "“bake” — undefined"
+        "example": "“bake” — 烤"
       },
       {
         "word": "lake",
         "ipa": "/leɪk/",
         "cn": "湖",
         "image": "📘",
-        "example": "“lake” — undefined"
+        "example": "“lake” — 湖"
       },
       {
         "word": "wake",
         "ipa": "/weɪk/",
         "cn": "醒",
         "image": "📘",
-        "example": "“wake” — undefined"
+        "example": "“wake” — 醒"
       }
     ],
     "note": "长元音 /eɪk/ 词族"
@@ -1405,7 +1405,7 @@
       "ipa": "/geɪt/",
       "cn": "大门",
       "image": "📘",
-      "example": "“gate” — undefined"
+      "example": "“gate” — 大门"
     },
     "members": [
       {
@@ -1413,21 +1413,21 @@
         "ipa": "/leɪt/",
         "cn": "迟到",
         "image": "📘",
-        "example": "“late” — undefined"
+        "example": "“late” — 迟到"
       },
       {
         "word": "date",
         "ipa": "/deɪt/",
         "cn": "日期",
         "image": "📘",
-        "example": "“date” — undefined"
+        "example": "“date” — 日期"
       },
       {
         "word": "plate",
         "ipa": "/peɪt/",
         "cn": "盘子",
         "image": "📘",
-        "example": "“plate” — undefined"
+        "example": "“plate” — 盘子"
       }
     ],
     "note": "长元音 /eɪt/ 词族"
@@ -1443,7 +1443,7 @@
       "ipa": "/geɪm/",
       "cn": "游戏",
       "image": "📘",
-      "example": "“game” — undefined"
+      "example": "“game” — 游戏"
     },
     "members": [
       {
@@ -1451,21 +1451,21 @@
         "ipa": "/neɪm/",
         "cn": "名字",
         "image": "📘",
-        "example": "“name” — undefined"
+        "example": "“name” — 名字"
       },
       {
         "word": "fame",
         "ipa": "/feɪm/",
         "cn": "名声",
         "image": "📘",
-        "example": "“fame” — undefined"
+        "example": "“fame” — 名声"
       },
       {
         "word": "came",
         "ipa": "/keɪm/",
         "cn": "来(过去)",
         "image": "📘",
-        "example": "“came” — undefined"
+        "example": "“came” — 来(过去)"
       }
     ],
     "note": "长元音 /eɪm/ 词族"
@@ -1481,7 +1481,7 @@
       "ipa": "/keɪn/",
       "cn": "手杖",
       "image": "📘",
-      "example": "“cane” — undefined"
+      "example": "“cane” — 手杖"
     },
     "members": [
       {
@@ -1489,14 +1489,14 @@
         "ipa": "/peɪn/",
         "cn": "飞机",
         "image": "📘",
-        "example": "“plane” — undefined"
+        "example": "“plane” — 飞机"
       },
       {
         "word": "crane",
         "ipa": "/keɪn/",
         "cn": "起重机",
         "image": "📘",
-        "example": "“crane” — undefined"
+        "example": "“crane” — 起重机"
       }
     ],
     "note": "长元音 /eɪn/ 词族"
@@ -1512,7 +1512,7 @@
       "ipa": "/feɪs/",
       "cn": "脸",
       "image": "📘",
-      "example": "“face” — undefined"
+      "example": "“face” — 脸"
     },
     "members": [
       {
@@ -1520,14 +1520,14 @@
         "ipa": "/reɪs/",
         "cn": "赛跑",
         "image": "📘",
-        "example": "“race” — undefined"
+        "example": "“race” — 赛跑"
       },
       {
         "word": "space",
         "ipa": "/seɪs/",
         "cn": "空间",
         "image": "📘",
-        "example": "“space” — undefined"
+        "example": "“space” — 空间"
       }
     ],
     "note": "长元音 /eɪs/ 词族"
@@ -1543,7 +1543,7 @@
       "ipa": "/seɪl/",
       "cn": "出售",
       "image": "📘",
-      "example": "“sale” — undefined"
+      "example": "“sale” — 出售"
     },
     "members": [
       {
@@ -1551,14 +1551,14 @@
         "ipa": "/teɪl/",
         "cn": "故事",
         "image": "📘",
-        "example": "“tale” — undefined"
+        "example": "“tale” — 故事"
       },
       {
         "word": "pale",
         "ipa": "/peɪl/",
         "cn": "苍白",
         "image": "📘",
-        "example": "“pale” — undefined"
+        "example": "“pale” — 苍白"
       }
     ],
     "note": "长元音 /eɪl/ 词族"
@@ -1574,7 +1574,7 @@
       "ipa": "/teɪp/",
       "cn": "胶带",
       "image": "📘",
-      "example": "“tape” — undefined"
+      "example": "“tape” — 胶带"
     },
     "members": [
       {
@@ -1582,14 +1582,14 @@
         "ipa": "/keɪp/",
         "cn": "斗篷",
         "image": "📘",
-        "example": "“cape” — undefined"
+        "example": "“cape” — 斗篷"
       },
       {
         "word": "grape",
         "ipa": "/geɪp/",
         "cn": "葡萄",
         "image": "📘",
-        "example": "“grape” — undefined"
+        "example": "“grape” — 葡萄"
       }
     ],
     "note": "长元音 /eɪp/ 词族"
@@ -1605,7 +1605,7 @@
       "ipa": "/siː/",
       "cn": "看见",
       "image": "📘",
-      "example": "“see” — undefined"
+      "example": "“see” — 看见"
     },
     "members": [
       {
@@ -1613,21 +1613,21 @@
         "ipa": "/biː/",
         "cn": "蜜蜂",
         "image": "📘",
-        "example": "“bee” — undefined"
+        "example": "“bee” — 蜜蜂"
       },
       {
         "word": "tree",
         "ipa": "/tiː/",
         "cn": "树",
         "image": "🌳",
-        "example": "“tree” — undefined"
+        "example": "“tree” — 树"
       },
       {
         "word": "three",
         "ipa": "/tiː/",
         "cn": "三",
         "image": "📘",
-        "example": "“three” — undefined"
+        "example": "“three” — 三"
       }
     ],
     "note": "长元音 /iː/ 词族"
@@ -1643,7 +1643,7 @@
       "ipa": "/diːp/",
       "cn": "（释义待补）",
       "image": "📘",
-      "example": "“deep” — undefined"
+      "example": "“deep” — （释义待补）"
     },
     "members": [
       {
@@ -1651,28 +1651,28 @@
         "ipa": "/siːp/",
         "cn": "（释义待补）",
         "image": "📘",
-        "example": "“sheep” — undefined"
+        "example": "“sheep” — （释义待补）"
       },
       {
         "word": "sleep",
         "ipa": "/siːp/",
         "cn": "（释义待补）",
         "image": "📘",
-        "example": "“sleep” — undefined"
+        "example": "“sleep” — （释义待补）"
       },
       {
         "word": "keep",
         "ipa": "/kiːp/",
         "cn": "（释义待补）",
         "image": "📘",
-        "example": "“keep” — undefined"
+        "example": "“keep” — （释义待补）"
       },
       {
         "word": "jeep",
         "ipa": "/dʒiːp/",
         "cn": "（释义待补）",
         "image": "📘",
-        "example": "“jeep” — undefined"
+        "example": "“jeep” — （释义待补）"
       }
     ],
     "note": "长元音 /iːp/ 词族"
@@ -1688,7 +1688,7 @@
       "ipa": "/fiːt/",
       "cn": "脚(复)",
       "image": "📘",
-      "example": "“feet” — undefined"
+      "example": "“feet” — 脚(复)"
     },
     "members": [
       {
@@ -1696,21 +1696,21 @@
         "ipa": "/miːt/",
         "cn": "遇见",
         "image": "📘",
-        "example": "“meet” — undefined"
+        "example": "“meet” — 遇见"
       },
       {
         "word": "street",
         "ipa": "/siːt/",
         "cn": "街道",
         "image": "📘",
-        "example": "“street” — undefined"
+        "example": "“street” — 街道"
       },
       {
         "word": "sweet",
         "ipa": "/siːt/",
         "cn": "甜",
         "image": "📘",
-        "example": "“sweet” — undefined"
+        "example": "“sweet” — 甜"
       }
     ],
     "note": "长元音 /iːt/ 词族"
@@ -1726,7 +1726,7 @@
       "ipa": "/fiːl/",
       "cn": "感觉",
       "image": "📘",
-      "example": "“feel” — undefined"
+      "example": "“feel” — 感觉"
     },
     "members": [
       {
@@ -1734,14 +1734,14 @@
         "ipa": "/piːl/",
         "cn": "剥",
         "image": "📘",
-        "example": "“peel” — undefined"
+        "example": "“peel” — 剥"
       },
       {
         "word": "wheel",
         "ipa": "/wiːl/",
         "cn": "轮子",
         "image": "📘",
-        "example": "“wheel” — undefined"
+        "example": "“wheel” — 轮子"
       }
     ],
     "note": "长元音 /iːl/ 词族"
@@ -1757,7 +1757,7 @@
       "ipa": "/siːk/",
       "cn": "说",
       "image": "📘",
-      "example": "“speak” — undefined"
+      "example": "“speak” — 说"
     },
     "members": [
       {
@@ -1765,14 +1765,14 @@
         "ipa": "/piːk/",
         "cn": "山峰",
         "image": "📘",
-        "example": "“peak” — undefined"
+        "example": "“peak” — 山峰"
       },
       {
         "word": "weak",
         "ipa": "/wiːk/",
         "cn": "弱",
         "image": "📘",
-        "example": "“weak” — undefined"
+        "example": "“weak” — 弱"
       }
     ],
     "note": "长元音 /iːk/ 词族"
@@ -1788,7 +1788,7 @@
       "ipa": "/diːm/",
       "cn": "梦",
       "image": "📘",
-      "example": "“dream” — undefined"
+      "example": "“dream” — 梦"
     },
     "members": [
       {
@@ -1796,14 +1796,14 @@
         "ipa": "/kiːm/",
         "cn": "奶油",
         "image": "📘",
-        "example": "“cream” — undefined"
+        "example": "“cream” — 奶油"
       },
       {
         "word": "team",
         "ipa": "/tiːm/",
         "cn": "队",
         "image": "📘",
-        "example": "“team” — undefined"
+        "example": "“team” — 队"
       }
     ],
     "note": "长元音 /iːm/ 词族"
@@ -1819,7 +1819,7 @@
       "ipa": "/baɪk/",
       "cn": "自行车",
       "image": "📘",
-      "example": "“bike” — undefined"
+      "example": "“bike” — 自行车"
     },
     "members": [
       {
@@ -1827,14 +1827,14 @@
         "ipa": "/laɪk/",
         "cn": "喜欢",
         "image": "📘",
-        "example": "“like” — undefined"
+        "example": "“like” — 喜欢"
       },
       {
         "word": "pike",
         "ipa": "/paɪk/",
         "cn": "梭子鱼",
         "image": "📘",
-        "example": "“pike” — undefined"
+        "example": "“pike” — 梭子鱼"
       }
     ],
     "note": "长元音 /aɪk/ 词族"
@@ -1850,7 +1850,7 @@
       "ipa": "/taɪm/",
       "cn": "时间",
       "image": "📘",
-      "example": "“time” — undefined"
+      "example": "“time” — 时间"
     },
     "members": [
       {
@@ -1858,14 +1858,14 @@
         "ipa": "/laɪm/",
         "cn": "酸橙",
         "image": "📘",
-        "example": "“lime” — undefined"
+        "example": "“lime” — 酸橙"
       },
       {
         "word": "dime",
         "ipa": "/daɪm/",
         "cn": "一角硬币",
         "image": "📘",
-        "example": "“dime” — undefined"
+        "example": "“dime” — 一角硬币"
       }
     ],
     "note": "长元音 /aɪm/ 词族"
@@ -1881,7 +1881,7 @@
       "ipa": "/laɪn/",
       "cn": "线",
       "image": "📘",
-      "example": "“line” — undefined"
+      "example": "“line” — 线"
     },
     "members": [
       {
@@ -1889,21 +1889,21 @@
         "ipa": "/faɪn/",
         "cn": "好",
         "image": "📘",
-        "example": "“fine” — undefined"
+        "example": "“fine” — 好"
       },
       {
         "word": "wine",
         "ipa": "/waɪn/",
         "cn": "酒",
         "image": "📘",
-        "example": "“wine” — undefined"
+        "example": "“wine” — 酒"
       },
       {
         "word": "pine",
         "ipa": "/paɪn/",
         "cn": "松树",
         "image": "📘",
-        "example": "“pine” — undefined"
+        "example": "“pine” — 松树"
       }
     ],
     "note": "长元音 /aɪn/ 词族"
@@ -1919,7 +1919,7 @@
       "ipa": "/raɪd/",
       "cn": "骑",
       "image": "📘",
-      "example": "“ride” — undefined"
+      "example": "“ride” — 骑"
     },
     "members": [
       {
@@ -1927,14 +1927,14 @@
         "ipa": "/saɪd/",
         "cn": "边",
         "image": "📘",
-        "example": "“side” — undefined"
+        "example": "“side” — 边"
       },
       {
         "word": "wide",
         "ipa": "/waɪd/",
         "cn": "宽",
         "image": "📘",
-        "example": "“wide” — undefined"
+        "example": "“wide” — 宽"
       }
     ],
     "note": "长元音 /aɪd/ 词族"
@@ -1950,7 +1950,7 @@
       "ipa": "/raɪs/",
       "cn": "米饭",
       "image": "📘",
-      "example": "“rice” — undefined"
+      "example": "“rice” — 米饭"
     },
     "members": [
       {
@@ -1958,14 +1958,14 @@
         "ipa": "/naɪs/",
         "cn": "好",
         "image": "📘",
-        "example": "“nice” — undefined"
+        "example": "“nice” — 好"
       },
       {
         "word": "ice",
         "ipa": "/?aɪs/",
         "cn": "冰",
         "image": "📘",
-        "example": "“ice” — undefined"
+        "example": "“ice” — 冰"
       }
     ],
     "note": "长元音 /aɪs/ 词族"
@@ -1981,7 +1981,7 @@
       "ipa": "/dʒəʊk/",
       "cn": "玩笑",
       "image": "📘",
-      "example": "“joke” — undefined"
+      "example": "“joke” — 玩笑"
     },
     "members": [
       {
@@ -1989,14 +1989,14 @@
         "ipa": "/kəʊk/",
         "cn": "可乐",
         "image": "📘",
-        "example": "“coke” — undefined"
+        "example": "“coke” — 可乐"
       },
       {
         "word": "poke",
         "ipa": "/pəʊk/",
         "cn": "戳",
         "image": "📘",
-        "example": "“poke” — undefined"
+        "example": "“poke” — 戳"
       }
     ],
     "note": "长元音 /əʊk/ 词族"
@@ -2012,7 +2012,7 @@
       "ipa": "/nəʊt/",
       "cn": "笔记",
       "image": "📘",
-      "example": "“note” — undefined"
+      "example": "“note” — 笔记"
     },
     "members": [
       {
@@ -2020,7 +2020,7 @@
         "ipa": "/vəʊt/",
         "cn": "投票",
         "image": "📘",
-        "example": "“vote” — undefined"
+        "example": "“vote” — 投票"
       }
     ],
     "note": "长元音 /əʊt/ 词族"
@@ -2036,7 +2036,7 @@
       "ipa": "/həʊl/",
       "cn": "洞",
       "image": "📘",
-      "example": "“hole” — undefined"
+      "example": "“hole” — 洞"
     },
     "members": [
       {
@@ -2044,14 +2044,14 @@
         "ipa": "/rəʊl/",
         "cn": "角色",
         "image": "📘",
-        "example": "“role” — undefined"
+        "example": "“role” — 角色"
       },
       {
         "word": "pole",
         "ipa": "/pəʊl/",
         "cn": "杆",
         "image": "📘",
-        "example": "“pole” — undefined"
+        "example": "“pole” — 杆"
       }
     ],
     "note": "长元音 /əʊl/ 词族"
@@ -2067,7 +2067,7 @@
       "ipa": "/bəʊn/",
       "cn": "骨头",
       "image": "📘",
-      "example": "“bone” — undefined"
+      "example": "“bone” — 骨头"
     },
     "members": [
       {
@@ -2075,14 +2075,14 @@
         "ipa": "/kəʊn/",
         "cn": "圆锥",
         "image": "📘",
-        "example": "“cone” — undefined"
+        "example": "“cone” — 圆锥"
       },
       {
         "word": "stone",
         "ipa": "/səʊn/",
         "cn": "石头",
         "image": "📘",
-        "example": "“stone” — undefined"
+        "example": "“stone” — 石头"
       }
     ],
     "note": "长元音 /əʊn/ 词族"
@@ -2098,7 +2098,7 @@
       "ipa": "/həʊp/",
       "cn": "希望",
       "image": "📘",
-      "example": "“hope” — undefined"
+      "example": "“hope” — 希望"
     },
     "members": [
       {
@@ -2106,14 +2106,14 @@
         "ipa": "/rəʊp/",
         "cn": "绳子",
         "image": "📘",
-        "example": "“rope” — undefined"
+        "example": "“rope” — 绳子"
       },
       {
         "word": "cope",
         "ipa": "/kəʊp/",
         "cn": "应付",
         "image": "📘",
-        "example": "“cope” — undefined"
+        "example": "“cope” — 应付"
       }
     ],
     "note": "长元音 /əʊp/ 词族"
@@ -2129,7 +2129,7 @@
       "ipa": "/kjuːt/",
       "cn": "可爱",
       "image": "📘",
-      "example": "“cute” — undefined"
+      "example": "“cute” — 可爱"
     },
     "members": [
       {
@@ -2137,7 +2137,7 @@
         "ipa": "/fjuːt/",
         "cn": "长笛",
         "image": "📘",
-        "example": "“flute” — undefined"
+        "example": "“flute” — 长笛"
       }
     ],
     "note": "长元音 /juːt/ 词族"
@@ -2153,7 +2153,7 @@
       "ipa": "/tjuːn/",
       "cn": "曲调",
       "image": "📘",
-      "example": "“tune” — undefined"
+      "example": "“tune” — 曲调"
     },
     "members": [
       {
@@ -2161,7 +2161,7 @@
         "ipa": "/dʒjuːn/",
         "cn": "六月",
         "image": "📘",
-        "example": "“june” — undefined"
+        "example": "“june” — 六月"
       }
     ],
     "note": "长元音 /juːn/ 词族"
@@ -2177,7 +2177,7 @@
       "ipa": "/kjuːb/",
       "cn": "立方体",
       "image": "📘",
-      "example": "“cube” — undefined"
+      "example": "“cube” — 立方体"
     },
     "members": [
       {
@@ -2185,7 +2185,7 @@
         "ipa": "/tjuːb/",
         "cn": "管子",
         "image": "📘",
-        "example": "“tube” — undefined"
+        "example": "“tube” — 管子"
       }
     ],
     "note": "长元音 /juːb/ 词族"
@@ -2201,7 +2201,7 @@
       "ipa": "/bɔːl/",
       "cn": "球",
       "image": "⚽",
-      "example": "“ball” — undefined"
+      "example": "“ball” — 球"
     },
     "members": [
       {
@@ -2209,35 +2209,35 @@
         "ipa": "/kɔːl/",
         "cn": "叫",
         "image": "📘",
-        "example": "“call” — undefined"
+        "example": "“call” — 叫"
       },
       {
         "word": "fall",
         "ipa": "/fɔːl/",
         "cn": "落下",
         "image": "📘",
-        "example": "“fall” — undefined"
+        "example": "“fall” — 落下"
       },
       {
         "word": "tall",
         "ipa": "/tɔːl/",
         "cn": "高",
         "image": "📘",
-        "example": "“tall” — undefined"
+        "example": "“tall” — 高"
       },
       {
         "word": "small",
         "ipa": "/sɔːl/",
         "cn": "小",
         "image": "📘",
-        "example": "“small” — undefined"
+        "example": "“small” — 小"
       },
       {
         "word": "wall",
         "ipa": "/wɔːl/",
         "cn": "墙",
         "image": "📘",
-        "example": "“wall” — undefined"
+        "example": "“wall” — 墙"
       }
     ],
     "note": "组合 /ɔːl/ 词族"
@@ -2253,7 +2253,7 @@
       "ipa": "/deɪ/",
       "cn": "天",
       "image": "📘",
-      "example": "“day” — undefined"
+      "example": "“day” — 天"
     },
     "members": [
       {
@@ -2261,35 +2261,35 @@
         "ipa": "/peɪ/",
         "cn": "玩",
         "image": "📘",
-        "example": "“play” — undefined"
+        "example": "“play” — 玩"
       },
       {
         "word": "say",
         "ipa": "/seɪ/",
         "cn": "说",
         "image": "📘",
-        "example": "“say” — undefined"
+        "example": "“say” — 说"
       },
       {
         "word": "way",
         "ipa": "/weɪ/",
         "cn": "路",
         "image": "📘",
-        "example": "“way” — undefined"
+        "example": "“way” — 路"
       },
       {
         "word": "may",
         "ipa": "/meɪ/",
         "cn": "可以",
         "image": "📘",
-        "example": "“may” — undefined"
+        "example": "“may” — 可以"
       },
       {
         "word": "lay",
         "ipa": "/leɪ/",
         "cn": "放",
         "image": "📘",
-        "example": "“lay” — undefined"
+        "example": "“lay” — 放"
       }
     ],
     "note": "组合 /eɪ/ 词族"
@@ -2305,7 +2305,7 @@
       "ipa": "/bʊk/",
       "cn": "书",
       "image": "📖",
-      "example": "“book” — undefined"
+      "example": "“book” — 书"
     },
     "members": [
       {
@@ -2313,21 +2313,21 @@
         "ipa": "/lʊk/",
         "cn": "看",
         "image": "📘",
-        "example": "“look” — undefined"
+        "example": "“look” — 看"
       },
       {
         "word": "cook",
         "ipa": "/kʊk/",
         "cn": "煮",
         "image": "📘",
-        "example": "“cook” — undefined"
+        "example": "“cook” — 煮"
       },
       {
         "word": "hook",
         "ipa": "/hʊk/",
         "cn": "钩",
         "image": "📘",
-        "example": "“hook” — undefined"
+        "example": "“hook” — 钩"
       }
     ],
     "note": "组合 /ʊk/ 词族"
@@ -2343,7 +2343,7 @@
       "ipa": "/gʊd/",
       "cn": "好",
       "image": "📘",
-      "example": "“good” — undefined"
+      "example": "“good” — 好"
     },
     "members": [
       {
@@ -2351,14 +2351,14 @@
         "ipa": "/fʊd/",
         "cn": "脚",
         "image": "🦶",
-        "example": "“foot” — undefined"
+        "example": "“foot” — 脚"
       },
       {
         "word": "wood",
         "ipa": "/wʊd/",
         "cn": "木头",
         "image": "📘",
-        "example": "“wood” — undefined"
+        "example": "“wood” — 木头"
       }
     ],
     "note": "组合 /ʊd/ 词族"
@@ -2374,7 +2374,7 @@
       "ipa": "/buː/",
       "cn": "蓝色",
       "image": "📘",
-      "example": "“blue” — undefined"
+      "example": "“blue” — 蓝色"
     },
     "members": [
       {
@@ -2382,14 +2382,14 @@
         "ipa": "/guː/",
         "cn": "胶水",
         "image": "📘",
-        "example": "“glue” — undefined"
+        "example": "“glue” — 胶水"
       },
       {
         "word": "clue",
         "ipa": "/kuː/",
         "cn": "线索",
         "image": "📘",
-        "example": "“clue” — undefined"
+        "example": "“clue” — 线索"
       }
     ],
     "note": "组合 /uː/ 词族"
@@ -2405,7 +2405,7 @@
       "ipa": "/reɪn/",
       "cn": "雨",
       "image": "📘",
-      "example": "“rain” — undefined"
+      "example": "“rain” — 雨"
     },
     "members": [
       {
@@ -2413,21 +2413,21 @@
         "ipa": "/teɪn/",
         "cn": "火车",
         "image": "📘",
-        "example": "“train” — undefined"
+        "example": "“train” — 火车"
       },
       {
         "word": "main",
         "ipa": "/meɪn/",
         "cn": "主要的",
         "image": "📘",
-        "example": "“main” — undefined"
+        "example": "“main” — 主要的"
       },
       {
         "word": "pain",
         "ipa": "/peɪn/",
         "cn": "疼痛",
         "image": "📘",
-        "example": "“pain” — undefined"
+        "example": "“pain” — 疼痛"
       }
     ],
     "note": "组合 /eɪn/ 词族"
@@ -2443,7 +2443,7 @@
       "ipa": "/bəʊt/",
       "cn": "船",
       "image": "📘",
-      "example": "“boat” — undefined"
+      "example": "“boat” — 船"
     },
     "members": [
       {
@@ -2451,21 +2451,21 @@
         "ipa": "/kəʊt/",
         "cn": "外套",
         "image": "📘",
-        "example": "“coat” — undefined"
+        "example": "“coat” — 外套"
       },
       {
         "word": "goat",
         "ipa": "/gəʊt/",
         "cn": "山羊",
         "image": "📘",
-        "example": "“goat” — undefined"
+        "example": "“goat” — 山羊"
       },
       {
         "word": "float",
         "ipa": "/fəʊt/",
         "cn": "浮",
         "image": "📘",
-        "example": "“float” — undefined"
+        "example": "“float” — 浮"
       }
     ],
     "note": "组合 /əʊt/ 词族"
@@ -2481,7 +2481,7 @@
       "ipa": "/haʊs/",
       "cn": "房子",
       "image": "📘",
-      "example": "“house” — undefined"
+      "example": "“house” — 房子"
     },
     "members": [
       {
@@ -2489,14 +2489,14 @@
         "ipa": "/maʊs/",
         "cn": "老鼠",
         "image": "📘",
-        "example": "“mouse” — undefined"
+        "example": "“mouse” — 老鼠"
       },
       {
         "word": "mouth",
         "ipa": "/maʊs/",
         "cn": "嘴",
         "image": "👄",
-        "example": "“mouth” — undefined"
+        "example": "“mouth” — 嘴"
       }
     ],
     "note": "组合 /aʊs/ 词族"
